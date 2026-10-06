@@ -1,0 +1,5 @@
+Disease,Train,Validation,Test,Total
+Aspergillosis,53,10,17,80
+Herpes simplex,54,11,15,80
+Syphilis,57,15,8,80
+Tuberculosis,57,12,11,80

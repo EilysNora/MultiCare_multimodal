@@ -1,0 +1,4 @@
+method,accuracy,macro_f1
+FAISS Top-1,0.5294,
+FAISS Top-5 Majority Vote,0.5686,0.575
+FAISS Top-5 + Qwen2.5-1.5B,0.49019607843137253,0.4274

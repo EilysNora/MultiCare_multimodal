@@ -1,0 +1,52 @@
+case_id,true_label,prediction,correct,votes
+PMC2826293_01,Tuberculosis,Tuberculosis,True,"{'Tuberculosis': 3, 'Syphilis': 1, 'Aspergillosis': 1}"
+PMC4399170_01,Herpes simplex,Tuberculosis,False,"{'Tuberculosis': 2, 'Syphilis': 2, 'Herpes simplex': 1}"
+PMC3177425_01,Tuberculosis,Tuberculosis,True,"{'Tuberculosis': 4, 'Aspergillosis': 1}"
+PMC8512623_01,Aspergillosis,Tuberculosis,False,"{'Tuberculosis': 2, 'Aspergillosis': 2, 'Herpes simplex': 1}"
+PMC8512623_02,Aspergillosis,Aspergillosis,True,"{'Aspergillosis': 3, 'Tuberculosis': 2}"
+PMC8512623_03,Aspergillosis,Aspergillosis,True,{'Aspergillosis': 5}
+PMC8512623_04,Aspergillosis,Aspergillosis,True,"{'Tuberculosis': 1, 'Aspergillosis': 4}"
+PMC7322736_01,Tuberculosis,Tuberculosis,True,"{'Tuberculosis': 3, 'Syphilis': 2}"
+PMC6388516_01,Herpes simplex,Herpes simplex,True,"{'Herpes simplex': 3, 'Syphilis': 2}"
+PMC10311228_01,Tuberculosis,Tuberculosis,True,"{'Tuberculosis': 3, 'Syphilis': 1, 'Aspergillosis': 1}"
+PMC3481801_01,Herpes simplex,Syphilis,False,"{'Syphilis': 4, 'Tuberculosis': 1}"
+PMC6503770_01,Aspergillosis,Tuberculosis,False,"{'Aspergillosis': 1, 'Tuberculosis': 2, 'Syphilis': 1, 'Herpes simplex': 1}"
+PMC555544_01,Aspergillosis,Herpes simplex,False,"{'Herpes simplex': 3, 'Syphilis': 1, 'Aspergillosis': 1}"
+PMC3730475_01,Syphilis,Syphilis,True,{'Syphilis': 5}
+PMC8795895_01,Herpes simplex,Herpes simplex,True,{'Herpes simplex': 5}
+PMC6394359_01,Herpes simplex,Herpes simplex,True,{'Herpes simplex': 5}
+PMC4779354_01,Aspergillosis,Aspergillosis,True,"{'Aspergillosis': 3, 'Tuberculosis': 2}"
+PMC2655297_01,Aspergillosis,Aspergillosis,True,"{'Aspergillosis': 4, 'Tuberculosis': 1}"
+PMC3800390_01,Herpes simplex,Syphilis,False,"{'Syphilis': 3, 'Aspergillosis': 1, 'Tuberculosis': 1}"
+PMC5514794_01,Herpes simplex,Herpes simplex,True,"{'Herpes simplex': 3, 'Syphilis': 2}"
+PMC8019250_01,Herpes simplex,Aspergillosis,False,"{'Aspergillosis': 4, 'Herpes simplex': 1}"
+PMC3872660_01,Aspergillosis,Syphilis,False,"{'Herpes simplex': 2, 'Syphilis': 3}"
+PMC5749471_01,Aspergillosis,Aspergillosis,True,"{'Tuberculosis': 1, 'Aspergillosis': 4}"
+PMC5791489_01,Tuberculosis,Tuberculosis,True,"{'Tuberculosis': 3, 'Syphilis': 1, 'Aspergillosis': 1}"
+PMC6558859_01,Herpes simplex,Herpes simplex,True,"{'Herpes simplex': 3, 'Syphilis': 2}"
+PMC3139286_01,Syphilis,Syphilis,True,"{'Syphilis': 3, 'Tuberculosis': 2}"
+PMC4031206_01,Aspergillosis,Herpes simplex,False,"{'Herpes simplex': 3, 'Tuberculosis': 1, 'Aspergillosis': 1}"
+PMC4336666_01,Herpes simplex,Syphilis,False,"{'Tuberculosis': 1, 'Syphilis': 4}"
+PMC5463668_01,Aspergillosis,Tuberculosis,False,"{'Syphilis': 1, 'Tuberculosis': 3, 'Aspergillosis': 1}"
+PMC10086654_01,Herpes simplex,Syphilis,False,"{'Herpes simplex': 1, 'Syphilis': 2, 'Tuberculosis': 2}"
+PMC5473079_01,Syphilis,Herpes simplex,False,"{'Herpes simplex': 3, 'Syphilis': 2}"
+PMC2637836_01,Tuberculosis,Tuberculosis,True,"{'Tuberculosis': 3, 'Syphilis': 1, 'Herpes simplex': 1}"
+PMC10479603_01,Herpes simplex,Aspergillosis,False,"{'Aspergillosis': 4, 'Syphilis': 1}"
+PMC8339249_01,Aspergillosis,Aspergillosis,True,"{'Herpes simplex': 1, 'Aspergillosis': 2, 'Tuberculosis': 2}"
+PMC11235267_01,Aspergillosis,Aspergillosis,True,"{'Aspergillosis': 2, 'Tuberculosis': 2, 'Herpes simplex': 1}"
+PMC10811723_01,Aspergillosis,Aspergillosis,True,{'Aspergillosis': 5}
+PMC10621037_01,Tuberculosis,Tuberculosis,True,{'Tuberculosis': 5}
+PMC11268767_01,Syphilis,Syphilis,True,"{'Herpes simplex': 1, 'Syphilis': 2, 'Aspergillosis': 2}"
+PMC10766069_01,Tuberculosis,Tuberculosis,True,"{'Syphilis': 1, 'Aspergillosis': 1, 'Herpes simplex': 1, 'Tuberculosis': 2}"
+PMC10726560_01,Syphilis,Syphilis,True,"{'Syphilis': 2, 'Herpes simplex': 1, 'Aspergillosis': 1, 'Tuberculosis': 1}"
+PMC10864056_01,Aspergillosis,Syphilis,False,"{'Syphilis': 3, 'Tuberculosis': 1, 'Herpes simplex': 1}"
+PMC10894019_01,Tuberculosis,Syphilis,False,"{'Syphilis': 2, 'Herpes simplex': 2, 'Tuberculosis': 1}"
+PMC10902430_01,Herpes simplex,Herpes simplex,True,"{'Herpes simplex': 4, 'Aspergillosis': 1}"
+PMC11298180_01,Tuberculosis,Aspergillosis,False,{'Aspergillosis': 5}
+PMC11761411_01,Aspergillosis,Aspergillosis,True,{'Aspergillosis': 5}
+PMC11808804_01,Tuberculosis,Syphilis,False,"{'Syphilis': 2, 'Tuberculosis': 2, 'Aspergillosis': 1}"
+PMC11810938_01,Herpes simplex,Aspergillosis,False,"{'Aspergillosis': 2, 'Tuberculosis': 2, 'Syphilis': 1}"
+PMC11766525_01,Syphilis,Syphilis,True,"{'Syphilis': 4, 'Herpes simplex': 1}"
+PMC12880937_01,Syphilis,Tuberculosis,False,"{'Aspergillosis': 1, 'Tuberculosis': 2, 'Herpes simplex': 1, 'Syphilis': 1}"
+PMC12460081_01,Herpes simplex,Herpes simplex,True,"{'Tuberculosis': 1, 'Herpes simplex': 3, 'Syphilis': 1}"
+PMC12943459_01,Syphilis,Aspergillosis,False,"{'Aspergillosis': 4, 'Syphilis': 1}"

@@ -1,0 +1,5 @@
+Disease,Precision,Recall,F1,Support
+Aspergillosis,0.6667,0.5882,0.625,17
+Herpes simplex,0.4375,0.4667,0.4516,15
+Syphilis,0.4444,0.5,0.4706,8
+Tuberculosis,0.8182,0.8182,0.8182,11

@@ -1,0 +1,45 @@
+﻿disease,category,article_count,case_count
+Tuberculosis,Bacterial,3746,4141
+Syphilis,Bacterial,1324,1400
+Brucellosis,Bacterial,370,423
+Lyme disease,Bacterial,281,300
+Gonorrhea,Bacterial,137,143
+Leprosy,Bacterial,121,136
+Q fever,Bacterial,115,122
+Typhoid fever,Bacterial,105,109
+Chlamydia infection,Bacterial,91,95
+Cholera,Bacterial,45,50
+Candidiasis,Fungal,598,695
+Aspergillosis,Fungal,438,487
+Histoplasmosis,Fungal,282,308
+Cryptococcosis,Fungal,246,271
+Tinea,Fungal,96,104
+Pneumonia,Infectious syndrome,4964,5706
+Sepsis,Infectious syndrome,3556,3992
+Abscess,Infectious syndrome,3365,3733
+Meningitis,Infectious syndrome,1302,1504
+Encephalitis,Infectious syndrome,1131,1346
+Endocarditis,Infectious syndrome,1091,1195
+Bacteremia,Infectious syndrome,979,1095
+Osteomyelitis,Infectious syndrome,900,1022
+Cellulitis,Infectious syndrome,686,740
+Toxoplasmosis,Parasitic,538,592
+Malaria,Parasitic,428,473
+Leishmaniasis,Parasitic,209,246
+Schistosomiasis,Parasitic,104,110
+Cysticercosis,Parasitic,74,81
+Neurocysticercosis,Parasitic,72,85
+Filariasis,Parasitic,68,78
+Scabies,Parasitic,44,61
+HIV/AIDS,Viral,5486,6096
+COVID-19,Viral,3030,4143
+Hepatitis B,Viral,2601,2758
+Hepatitis C,Viral,1901,2016
+Herpes simplex,Viral,1167,1235
+Herpes zoster,Viral,766,840
+Varicella,Viral,659,713
+Hepatitis A,Viral,583,615
+Dengue,Viral,288,348
+Chikungunya,Viral,58,63
+Zika,Viral,44,59
+Mpox,Viral,35,60

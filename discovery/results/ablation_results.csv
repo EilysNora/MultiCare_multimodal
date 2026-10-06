@@ -1,0 +1,5 @@
+Configuration,Image,Text,Retrieval,Fusion,Accuracy,Macro-F1
+Image only,✓,,,,0.2941,0.2224
+Text retrieval,,✓,✓,,0.5686,0.575
+Early multimodal fusion,✓,✓,,Early,0.1373,0.0816
+Late multimodal fusion,✓,✓,✓,Late,0.5882,0.5913

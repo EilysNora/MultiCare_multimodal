@@ -1,0 +1,52 @@
+case_id,true_label,prediction,correct
+PMC10086654_01,Herpes simplex,Syphilis,False
+PMC10311228_01,Tuberculosis,Syphilis,False
+PMC10479603_01,Herpes simplex,Syphilis,False
+PMC10621037_01,Tuberculosis,Syphilis,False
+PMC10726560_01,Syphilis,Tuberculosis,False
+PMC10766069_01,Tuberculosis,Syphilis,False
+PMC10811723_01,Aspergillosis,Syphilis,False
+PMC10864056_01,Aspergillosis,Syphilis,False
+PMC10894019_01,Tuberculosis,Syphilis,False
+PMC10902430_01,Herpes simplex,Syphilis,False
+PMC11235267_01,Aspergillosis,Herpes simplex,False
+PMC11268767_01,Syphilis,Syphilis,True
+PMC11298180_01,Tuberculosis,Syphilis,False
+PMC11761411_01,Aspergillosis,Syphilis,False
+PMC11766525_01,Syphilis,Syphilis,True
+PMC11808804_01,Tuberculosis,Syphilis,False
+PMC11810938_01,Herpes simplex,Syphilis,False
+PMC12460081_01,Herpes simplex,Syphilis,False
+PMC12880937_01,Syphilis,Syphilis,True
+PMC12943459_01,Syphilis,Herpes simplex,False
+PMC2637836_01,Tuberculosis,Syphilis,False
+PMC2655297_01,Aspergillosis,Herpes simplex,False
+PMC2826293_01,Tuberculosis,Syphilis,False
+PMC3139286_01,Syphilis,Syphilis,True
+PMC3177425_01,Tuberculosis,Syphilis,False
+PMC3481801_01,Herpes simplex,Syphilis,False
+PMC3730475_01,Syphilis,Syphilis,True
+PMC3800390_01,Herpes simplex,Syphilis,False
+PMC3872660_01,Aspergillosis,Syphilis,False
+PMC4031206_01,Aspergillosis,Herpes simplex,False
+PMC4336666_01,Herpes simplex,Syphilis,False
+PMC4399170_01,Herpes simplex,Syphilis,False
+PMC4779354_01,Aspergillosis,Syphilis,False
+PMC5463668_01,Aspergillosis,Syphilis,False
+PMC5473079_01,Syphilis,Syphilis,True
+PMC5514794_01,Herpes simplex,Syphilis,False
+PMC555544_01,Aspergillosis,Syphilis,False
+PMC5749471_01,Aspergillosis,Syphilis,False
+PMC5791489_01,Tuberculosis,Syphilis,False
+PMC6388516_01,Herpes simplex,Syphilis,False
+PMC6394359_01,Herpes simplex,Syphilis,False
+PMC6503770_01,Aspergillosis,Syphilis,False
+PMC6558859_01,Herpes simplex,Syphilis,False
+PMC7322736_01,Tuberculosis,Syphilis,False
+PMC8019250_01,Herpes simplex,Syphilis,False
+PMC8339249_01,Aspergillosis,Syphilis,False
+PMC8512623_01,Aspergillosis,Syphilis,False
+PMC8512623_02,Aspergillosis,Syphilis,False
+PMC8512623_03,Aspergillosis,Syphilis,False
+PMC8512623_04,Aspergillosis,Syphilis,False
+PMC8795895_01,Herpes simplex,Herpes simplex,True

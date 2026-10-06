@@ -1,0 +1,52 @@
+case_id,true_label,prediction,raw_output
+PMC2826293_01,Tuberculosis,Aspergillosis,Aspergillosis
+PMC4399170_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC3177425_01,Tuberculosis,Tuberculosis,Tuberculosis
+PMC8512623_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC8512623_02,Aspergillosis,Aspergillosis,Aspergillosis
+PMC8512623_03,Aspergillosis,Aspergillosis,Aspergillosis
+PMC8512623_04,Aspergillosis,Aspergillosis,Aspergillosis
+PMC7322736_01,Tuberculosis,Aspergillosis,Aspergillosis
+PMC6388516_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC10311228_01,Tuberculosis,Tuberculosis,Tuberculosis
+PMC3481801_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC6503770_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC555544_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC3730475_01,Syphilis,Syphilis,Syphilis
+PMC8795895_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC6394359_01,Herpes simplex,,Histoplasmosis
+PMC4779354_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC2655297_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC3800390_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC5514794_01,Herpes simplex,,Membranous aplasia cutis congenita
+PMC8019250_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC3872660_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC5749471_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC5791489_01,Tuberculosis,,Constrictive Pericarditis
+PMC6558859_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC3139286_01,Syphilis,Syphilis,Syphilis
+PMC4031206_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC4336666_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC5463668_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC10086654_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC5473079_01,Syphilis,Tuberculosis,Tuberculosis
+PMC2637836_01,Tuberculosis,Tuberculosis,Tuberculosis
+PMC10479603_01,Herpes simplex,Syphilis,Syphilis
+PMC8339249_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC11235267_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC10811723_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC10621037_01,Tuberculosis,Tuberculosis,Tuberculosis
+PMC11268767_01,Syphilis,,Leishmaniasis
+PMC10766069_01,Tuberculosis,Aspergillosis,Aspergillosis
+PMC10726560_01,Syphilis,Aspergillosis,Aspergillosis
+PMC10864056_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC10894019_01,Tuberculosis,Tuberculosis,Tuberculosis
+PMC10902430_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC11298180_01,Tuberculosis,Aspergillosis,Aspergillosis
+PMC11761411_01,Aspergillosis,Aspergillosis,Aspergillosis
+PMC11808804_01,Tuberculosis,Aspergillosis,Aspergillosis
+PMC11810938_01,Herpes simplex,Tuberculosis,Tuberculosis
+PMC11766525_01,Syphilis,Syphilis,Congenital Bullous Syphilis
+PMC12880937_01,Syphilis,Aspergillosis,Aspergillosis
+PMC12460081_01,Herpes simplex,Aspergillosis,Aspergillosis
+PMC12943459_01,Syphilis,,Rhinoscleroma

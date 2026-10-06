@@ -1,0 +1,7 @@
+Method,Accuracy,Macro-F1
+Image-only ResNet18,0.2941,0.2224
+Text FAISS Top-1,0.5294,
+Text FAISS Top-5 Majority,0.5686,0.575
+Text FAISS + Qwen 1.5B,0.4902,0.4274
+Early Fusion ResNet18 + DistilBERT,0.1373,0.0816
+Late Fusion Image + Text,0.5882352941176471,0.5913457391754356

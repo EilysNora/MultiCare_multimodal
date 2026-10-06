@@ -1,0 +1,45 @@
+disease,category,articles,cases,cases_with_verified_images,unique_verified_images,verified_image_caption_pairs,image_case_coverage_percent
+HIV/AIDS,Viral,5486,6096,1551,3276,3276,25.44
+Tuberculosis,Bacterial,3746,4141,1214,2666,2666,29.32
+Pneumonia,Infectious syndrome,4964,5706,1313,2493,2493,23.01
+Abscess,Infectious syndrome,3365,3733,1067,2425,2425,28.58
+Sepsis,Infectious syndrome,3556,3992,956,1995,1995,23.95
+Hepatitis B,Viral,2601,2758,708,1365,1365,25.67
+COVID-19,Viral,3030,4143,738,1300,1300,17.81
+Hepatitis C,Viral,1901,2016,527,1040,1040,26.14
+Syphilis,Bacterial,1324,1400,346,729,729,24.71
+Osteomyelitis,Infectious syndrome,900,1022,282,699,699,27.59
+Endocarditis,Infectious syndrome,1091,1195,289,631,631,24.18
+Meningitis,Infectious syndrome,1302,1504,312,555,555,20.74
+Herpes simplex,Viral,1167,1235,283,491,491,22.91
+Bacteremia,Infectious syndrome,979,1095,229,453,453,20.91
+Cellulitis,Infectious syndrome,686,740,209,435,435,28.24
+Encephalitis,Infectious syndrome,1131,1346,262,399,399,19.47
+Herpes zoster,Viral,766,840,181,319,319,21.55
+Candidiasis,Fungal,598,695,147,298,298,21.15
+Aspergillosis,Fungal,438,487,133,296,296,27.31
+Varicella,Viral,659,713,156,271,271,21.88
+Toxoplasmosis,Parasitic,538,592,132,232,232,22.3
+Hepatitis A,Viral,583,615,130,228,228,21.14
+Malaria,Parasitic,428,473,96,188,188,20.3
+Brucellosis,Bacterial,370,423,92,173,173,21.75
+Histoplasmosis,Fungal,282,308,59,137,137,19.16
+Leishmaniasis,Parasitic,209,246,69,136,136,28.05
+Cryptococcosis,Fungal,246,271,62,114,114,22.88
+Lyme disease,Bacterial,281,300,54,113,113,18.0
+Leprosy,Bacterial,121,136,52,113,113,38.24
+Dengue,Viral,288,348,64,111,111,18.39
+Tinea,Fungal,96,104,30,85,85,28.85
+Schistosomiasis,Parasitic,104,110,32,77,77,29.09
+Filariasis,Parasitic,68,78,33,69,69,42.31
+Cysticercosis,Parasitic,74,81,27,65,65,33.33
+Neurocysticercosis,Parasitic,72,85,24,60,60,28.24
+Typhoid fever,Bacterial,105,109,24,54,54,22.02
+Gonorrhea,Bacterial,137,143,26,49,49,18.18
+Q fever,Bacterial,115,122,24,47,47,19.67
+Chlamydia infection,Bacterial,91,95,23,47,47,24.21
+Scabies,Parasitic,44,61,26,42,42,42.62
+Cholera,Bacterial,45,50,12,20,20,24.0
+Chikungunya,Viral,58,63,12,15,15,19.05
+Mpox,Viral,35,60,6,11,11,10.0
+Zika,Viral,44,59,6,8,8,10.17

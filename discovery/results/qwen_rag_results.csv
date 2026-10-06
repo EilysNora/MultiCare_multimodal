@@ -1,0 +1,52 @@
+case_id,true_label,prediction,raw_output,valid_output,correct
+PMC2826293_01,Tuberculosis,Aspergillosis,Aspergillosis,True,False
+PMC4399170_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC3177425_01,Tuberculosis,Tuberculosis,Tuberculosis,True,True
+PMC8512623_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC8512623_02,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC8512623_03,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC8512623_04,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC7322736_01,Tuberculosis,Aspergillosis,Aspergillosis,True,False
+PMC6388516_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC10311228_01,Tuberculosis,Tuberculosis,Tuberculosis,True,True
+PMC3481801_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC6503770_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC555544_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC3730475_01,Syphilis,Syphilis,Syphilis,True,True
+PMC8795895_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC6394359_01,Herpes simplex,,Histoplasmosis,False,False
+PMC4779354_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC2655297_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC3800390_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC5514794_01,Herpes simplex,,Membranous aplasia cutis congenita,False,False
+PMC8019250_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC3872660_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC5749471_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC5791489_01,Tuberculosis,,Constrictive Pericarditis,False,False
+PMC6558859_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC3139286_01,Syphilis,Syphilis,Syphilis,True,True
+PMC4031206_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC4336666_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC5463668_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC10086654_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC5473079_01,Syphilis,Tuberculosis,Tuberculosis,True,False
+PMC2637836_01,Tuberculosis,Tuberculosis,Tuberculosis,True,True
+PMC10479603_01,Herpes simplex,Syphilis,Syphilis,True,False
+PMC8339249_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC11235267_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC10811723_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC10621037_01,Tuberculosis,Tuberculosis,Tuberculosis,True,True
+PMC11268767_01,Syphilis,,Leishmaniasis,False,False
+PMC10766069_01,Tuberculosis,Aspergillosis,Aspergillosis,True,False
+PMC10726560_01,Syphilis,Aspergillosis,Aspergillosis,True,False
+PMC10864056_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC10894019_01,Tuberculosis,Tuberculosis,Tuberculosis,True,True
+PMC10902430_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC11298180_01,Tuberculosis,Aspergillosis,Aspergillosis,True,False
+PMC11761411_01,Aspergillosis,Aspergillosis,Aspergillosis,True,True
+PMC11808804_01,Tuberculosis,Aspergillosis,Aspergillosis,True,False
+PMC11810938_01,Herpes simplex,Tuberculosis,Tuberculosis,True,False
+PMC11766525_01,Syphilis,Syphilis,Congenital Bullous Syphilis,True,True
+PMC12880937_01,Syphilis,Aspergillosis,Aspergillosis,True,False
+PMC12460081_01,Herpes simplex,Aspergillosis,Aspergillosis,True,False
+PMC12943459_01,Syphilis,,Rhinoscleroma,False,False

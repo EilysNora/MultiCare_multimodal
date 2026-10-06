@@ -1,0 +1,644 @@
+﻿article_id,case_id,disease,split,image_id,image_file,file,image_type,image_subtype
+PMC4379640,PMC4379640_01,Aspergillosis,train,PMC4379640_01_HV-16-30-g001.jpg,HV-16-30-g001.jpg,PMC4379640_HV-16-30-g001_undivided_1_1.webp,radiology,ultrasound
+PMC4379640,PMC4379640_01,Aspergillosis,train,PMC4379640_01_HV-16-30-g002.jpg,HV-16-30-g002.jpg,PMC4379640_HV-16-30-g002_undivided_1_1.webp,radiology,ultrasound
+PMC4379640,PMC4379640_01,Aspergillosis,train,PMC4379640_01_HV-16-30-g003.jpg,HV-16-30-g003.jpg,PMC4379640_HV-16-30-g003_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3730474,PMC3730474_01,Syphilis,train,PMC3730474_01_IJSTD-34-41-g001.jpg,IJSTD-34-41-g001.jpg,PMC3730474_IJSTD-34-41-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10046697,PMC10046697_01,Aspergillosis,train,PMC10046697_01_OTO2-7-e26-g001.jpg,OTO2-7-e26-g001.jpg,PMC10046697_OTO2-7-e26-g001_undivided_1_1.webp,radiology,ct
+PMC10046697,PMC10046697_01,Aspergillosis,train,PMC10046697_01_OTO2-7-e26-g002.jpg,OTO2-7-e26-g002.jpg,PMC10046697_OTO2-7-e26-g002_undivided_1_1.webp,endoscopy,airway_endoscopy
+PMC6754851,PMC6754851_04,Tuberculosis,train,PMC6754851_04_PAMJ-33-150-g004.jpg,PAMJ-33-150-g004.jpg,PMC6754851_PAMJ-33-150-g004_undivided_1_1.webp,pathology,h&e
+PMC2826293,PMC2826293_01,Tuberculosis,test,PMC2826293_01_1757-1626-3-18-1.jpg,1757-1626-3-18-1.jpg,PMC2826293_1757-1626-3-18-1_undivided_1_1.webp,radiology,ct
+PMC2826293,PMC2826293_01,Tuberculosis,test,PMC2826293_01_1757-1626-3-18-2.jpg,1757-1626-3-18-2.jpg,PMC2826293_1757-1626-3-18-2_undivided_1_1.webp,pathology,h&e
+PMC6698274,PMC6698274_01,Tuberculosis,train,PMC6698274_01_gr1.jpg,gr1.jpg,PMC6698274_gr1_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC4719501,PMC4719501_01,Tuberculosis,train,PMC4719501_01_UA-8-108-g002.jpg,UA-8-108-g002.jpg,PMC4719501_UA-8-108-g002_undivided_1_1.webp,endoscopy,other_endoscopy
+PMC9234257,PMC9234257_01,Syphilis,train,PMC9234257_01_fmed-09-917050-g0003.jpg,fmed-09-917050-g0003.jpg,PMC9234257_fmed-09-917050-g0003_undivided_1_1.webp,radiology,x_ray
+PMC4399170,PMC4399170_01,Herpes simplex,test,PMC4399170_01_SNI-6-58-g001.jpg,SNI-6-58-g001.jpg,PMC4399170_SNI-6-58-g001_undivided_1_1.webp,radiology,ct
+PMC4399170,PMC4399170_01,Herpes simplex,test,PMC4399170_01_SNI-6-58-g002.jpg,SNI-6-58-g002.jpg,PMC4399170_SNI-6-58-g002_undivided_1_1.webp,radiology,ct
+PMC4399170,PMC4399170_01,Herpes simplex,test,PMC4399170_01_SNI-6-58-g003.jpg,SNI-6-58-g003.jpg,PMC4399170_SNI-6-58-g003_undivided_1_1.webp,radiology,ct
+PMC4399170,PMC4399170_01,Herpes simplex,test,PMC4399170_01_SNI-6-58-g004.jpg,SNI-6-58-g004.jpg,PMC4399170_SNI-6-58-g004_undivided_1_1.webp,radiology,mri
+PMC4356032,PMC4356032_01,Aspergillosis,train,PMC4356032_01_gr3.jpg,gr3.jpg,PMC4356032_gr3_undivided_1_1.webp,radiology,ct
+PMC8531974,PMC8531974_02,Syphilis,train,PMC8531974_02_PAMJ-40-16-g001.jpg,PAMJ-40-16-g001.jpg,PMC8531974_PAMJ-40-16-g001_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC8531974,PMC8531974_02,Syphilis,train,PMC8531974_02_PAMJ-40-16-g004.jpg,PAMJ-40-16-g004.jpg,PMC8531974_PAMJ-40-16-g004_undivided_1_1.webp,radiology,x_ray
+PMC8531974,PMC8531974_02,Syphilis,train,PMC8531974_02_PAMJ-40-16-g006.jpg,PAMJ-40-16-g006.jpg,PMC8531974_PAMJ-40-16-g006_undivided_1_1.webp,pathology,h&e
+PMC8531974,PMC8531974_02,Syphilis,train,PMC8531974_02_PAMJ-40-16-g007.jpg,PAMJ-40-16-g007.jpg,PMC8531974_PAMJ-40-16-g007_undivided_1_1.webp,pathology,immunostaining
+PMC3920391,PMC3920391_01,Aspergillosis,train,PMC3920391_01_gr1.jpg,gr1.jpg,PMC3920391_gr1_undivided_1_1.webp,radiology,ct
+PMC3920391,PMC3920391_01,Aspergillosis,train,PMC3920391_01_gr2.jpg,gr2.jpg,PMC3920391_gr2_undivided_1_1.webp,pathology,h&e
+PMC3920391,PMC3920391_01,Aspergillosis,train,PMC3920391_01_gr3.jpg,gr3.jpg,PMC3920391_gr3_undivided_1_1.webp,pathology,h&e
+PMC10106728,PMC10106728_01,Aspergillosis,train,PMC10106728_01_fvets-10-1132161-g0001.jpg,fvets-10-1132161-g0001.jpg,PMC10106728_fvets-10-1132161-g0001_undivided_1_1.webp,radiology,ct
+PMC5848349,PMC5848349_01,Tuberculosis,train,PMC5848349_01_OJO-11-49-g001.jpg,OJO-11-49-g001.jpg,PMC5848349_OJO-11-49-g001_undivided_1_1.webp,ophthalmic_imaging,ophthalmic_angiography
+PMC3177425,PMC3177425_01,Tuberculosis,test,PMC3177425_01_JCIS-1-33-g002.jpg,JCIS-1-33-g002.jpg,PMC3177425_JCIS-1-33-g002_undivided_1_1.webp,radiology,ct
+PMC3177425,PMC3177425_01,Tuberculosis,test,PMC3177425_01_JCIS-1-33-g003.jpg,JCIS-1-33-g003.jpg,PMC3177425_JCIS-1-33-g003_undivided_1_1.webp,radiology,ct
+PMC3177425,PMC3177425_01,Tuberculosis,test,PMC3177425_01_JCIS-1-33-g004.jpg,JCIS-1-33-g004.jpg,PMC3177425_JCIS-1-33-g004_undivided_1_1.webp,radiology,x_ray
+PMC5917516,PMC5917516_01,Tuberculosis,train,PMC5917516_01_JOMFP-22-108-g003.jpg,JOMFP-22-108-g003.jpg,PMC5917516_JOMFP-22-108-g003_undivided_1_1.webp,pathology,h&e
+PMC5917516,PMC5917516_01,Tuberculosis,train,PMC5917516_01_JOMFP-22-108-g004.jpg,JOMFP-22-108-g004.jpg,PMC5917516_JOMFP-22-108-g004_undivided_1_1.webp,pathology,h&e
+PMC5917516,PMC5917516_01,Tuberculosis,train,PMC5917516_01_JOMFP-22-108-g005.jpg,JOMFP-22-108-g005.jpg,PMC5917516_JOMFP-22-108-g005_undivided_1_1.webp,pathology,h&e
+PMC4290067,PMC4290067_01,Tuberculosis,val,PMC4290067_01_IJNM-30-51-g001.jpg,IJNM-30-51-g001.jpg,PMC4290067_IJNM-30-51-g001_undivided_1_1.webp,radiology,ultrasound
+PMC7293421,PMC7293421_01,Herpes simplex,train,PMC7293421_01_OARRR-12-91-g0001.jpg,OARRR-12-91-g0001.jpg,PMC7293421_OARRR-12-91-g0001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7293421,PMC7293421_01,Herpes simplex,train,PMC7293421_01_OARRR-12-91-g0002.jpg,OARRR-12-91-g0002.jpg,PMC7293421_OARRR-12-91-g0002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC7293421,PMC7293421_01,Herpes simplex,train,PMC7293421_01_OARRR-12-91-g0003.jpg,OARRR-12-91-g0003.jpg,PMC7293421_OARRR-12-91-g0003_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC4430157,PMC4430157_01,Syphilis,val,PMC4430157_01_PAMJ-20-3-g001.jpg,PAMJ-20-3-g001.jpg,PMC4430157_PAMJ-20-3-g001_undivided_1_1.webp,medical_photograph,oral_photograph
+PMC4430157,PMC4430157_01,Syphilis,val,PMC4430157_01_PAMJ-20-3-g002.jpg,PAMJ-20-3-g002.jpg,PMC4430157_PAMJ-20-3-g002_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10442578,PMC10442578_01,Aspergillosis,train,PMC10442578_01_aoem-35-e13-g002.jpg,aoem-35-e13-g002.jpg,PMC10442578_aoem-35-e13-g002_undivided_1_1.webp,radiology,x_ray
+PMC8132766,PMC8132766_01,Syphilis,train,PMC8132766_01_JFMPC-10-567-g001.jpg,JFMPC-10-567-g001.jpg,PMC8132766_JFMPC-10-567-g001_undivided_1_1.webp,radiology,mri
+PMC8132766,PMC8132766_01,Syphilis,train,PMC8132766_01_JFMPC-10-567-g002.jpg,JFMPC-10-567-g002.jpg,PMC8132766_JFMPC-10-567-g002_undivided_1_1.webp,radiology,mri
+PMC8132766,PMC8132766_01,Syphilis,train,PMC8132766_01_JFMPC-10-567-g003.jpg,JFMPC-10-567-g003.jpg,PMC8132766_JFMPC-10-567-g003_undivided_1_1.webp,radiology,mri
+PMC8132766,PMC8132766_01,Syphilis,train,PMC8132766_01_JFMPC-10-567-g004.jpg,JFMPC-10-567-g004.jpg,PMC8132766_JFMPC-10-567-g004_undivided_1_1.webp,radiology,mri
+PMC8132766,PMC8132766_01,Syphilis,train,PMC8132766_01_JFMPC-10-567-g005.jpg,JFMPC-10-567-g005.jpg,PMC8132766_JFMPC-10-567-g005_undivided_1_1.webp,radiology,mri
+PMC3167963,PMC3167963_01,Tuberculosis,train,PMC3167963_01_JLP-1-25-g001.jpg,JLP-1-25-g001.jpg,PMC3167963_JLP-1-25-g001_undivided_1_1.webp,radiology,ct
+PMC8512623,PMC8512623_01,Aspergillosis,test,PMC8512623_01_gr1.jpg,gr1.jpg,PMC8512623_gr1_undivided_1_1.webp,radiology,x_ray
+PMC8512623,PMC8512623_01,Aspergillosis,test,PMC8512623_01_gr2.jpg,gr2.jpg,PMC8512623_gr2_undivided_1_1.webp,radiology,ct
+PMC8512623,PMC8512623_01,Aspergillosis,test,PMC8512623_01_gr4.jpg,gr4.jpg,PMC8512623_gr4_undivided_1_1.webp,radiology,x_ray
+PMC8512623,PMC8512623_02,Aspergillosis,test,PMC8512623_02_gr6.jpg,gr6.jpg,PMC8512623_gr6_undivided_1_1.webp,radiology,x_ray
+PMC8512623,PMC8512623_02,Aspergillosis,test,PMC8512623_02_gr7.jpg,gr7.jpg,PMC8512623_gr7_undivided_1_1.webp,radiology,ct
+PMC8512623,PMC8512623_02,Aspergillosis,test,PMC8512623_02_gr9.jpg,gr9.jpg,PMC8512623_gr9_undivided_1_1.webp,radiology,x_ray
+PMC8512623,PMC8512623_03,Aspergillosis,test,PMC8512623_03_gr10.jpg,gr10.jpg,PMC8512623_gr10_undivided_1_1.webp,radiology,x_ray
+PMC8512623,PMC8512623_03,Aspergillosis,test,PMC8512623_03_gr11.jpg,gr11.jpg,PMC8512623_gr11_undivided_1_1.webp,radiology,ct
+PMC8512623,PMC8512623_03,Aspergillosis,test,PMC8512623_03_gr13.jpg,gr13.jpg,PMC8512623_gr13_undivided_1_1.webp,radiology,x_ray
+PMC8512623,PMC8512623_04,Aspergillosis,test,PMC8512623_04_gr15.jpg,gr15.jpg,PMC8512623_gr15_undivided_1_1.webp,radiology,ct
+PMC5337757,PMC5337757_01,Tuberculosis,train,PMC5337757_01_IJMS-42-102-g001.jpg,IJMS-42-102-g001.jpg,PMC5337757_IJMS-42-102-g001_undivided_1_1.webp,pathology,giemsa
+PMC5337757,PMC5337757_01,Tuberculosis,train,PMC5337757_01_IJMS-42-102-g002.jpg,IJMS-42-102-g002.jpg,PMC5337757_IJMS-42-102-g002_undivided_1_1.webp,radiology,x_ray
+PMC4649796,PMC4649796_01,Herpes simplex,train,PMC4649796_01_GMS-13-22-g-001.jpg,GMS-13-22-g-001.jpg,PMC4649796_GMS-13-22-g-001_undivided_1_1.webp,radiology,mri
+PMC4649796,PMC4649796_01,Herpes simplex,train,PMC4649796_01_GMS-13-22-g-002.jpg,GMS-13-22-g-002.jpg,PMC4649796_GMS-13-22-g-002_undivided_1_1.webp,radiology,mri
+PMC7201622,PMC7201622_01,Aspergillosis,train,PMC7201622_01_13620_2020_160_Fig1_HTML.jpg,13620_2020_160_Fig1_HTML.jpg,PMC7201622_13620_2020_160_Fig1_HTML_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7201622,PMC7201622_01,Aspergillosis,train,PMC7201622_01_13620_2020_160_Fig2_HTML.jpg,13620_2020_160_Fig2_HTML.jpg,PMC7201622_13620_2020_160_Fig2_HTML_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7201622,PMC7201622_01,Aspergillosis,train,PMC7201622_01_13620_2020_160_Fig3_HTML.jpg,13620_2020_160_Fig3_HTML.jpg,PMC7201622_13620_2020_160_Fig3_HTML_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7201622,PMC7201622_01,Aspergillosis,train,PMC7201622_01_13620_2020_160_Fig4_HTML.jpg,13620_2020_160_Fig4_HTML.jpg,PMC7201622_13620_2020_160_Fig4_HTML_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7201622,PMC7201622_01,Aspergillosis,train,PMC7201622_01_13620_2020_160_Fig5_HTML.jpg,13620_2020_160_Fig5_HTML.jpg,PMC7201622_13620_2020_160_Fig5_HTML_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7201622,PMC7201622_01,Aspergillosis,train,PMC7201622_01_13620_2020_160_Fig6_HTML.jpg,13620_2020_160_Fig6_HTML.jpg,PMC7201622_13620_2020_160_Fig6_HTML_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7201622,PMC7201622_01,Aspergillosis,train,PMC7201622_01_13620_2020_160_Fig7_HTML.jpg,13620_2020_160_Fig7_HTML.jpg,PMC7201622_13620_2020_160_Fig7_HTML_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7201622,PMC7201622_01,Aspergillosis,train,PMC7201622_01_13620_2020_160_Fig8_HTML.jpg,13620_2020_160_Fig8_HTML.jpg,PMC7201622_13620_2020_160_Fig8_HTML_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC7201622,PMC7201622_01,Aspergillosis,train,PMC7201622_01_13620_2020_160_Fig9_HTML.jpg,13620_2020_160_Fig9_HTML.jpg,PMC7201622_13620_2020_160_Fig9_HTML_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC3564726,PMC3564726_01,Syphilis,train,PMC3564726_01_1746-160X-9-4-1.jpg,1746-160X-9-4-1.jpg,PMC3564726_1746-160X-9-4-1_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3564726,PMC3564726_01,Syphilis,train,PMC3564726_01_1746-160X-9-4-2.jpg,1746-160X-9-4-2.jpg,PMC3564726_1746-160X-9-4-2_undivided_1_1.webp,radiology,ct
+PMC3564726,PMC3564726_01,Syphilis,train,PMC3564726_01_1746-160X-9-4-3.jpg,1746-160X-9-4-3.jpg,PMC3564726_1746-160X-9-4-3_undivided_1_1.webp,radiology,ct
+PMC4085913,PMC4085913_01,Tuberculosis,train,PMC4085913_01_JCVJS-5-52-g001.jpg,JCVJS-5-52-g001.jpg,PMC4085913_JCVJS-5-52-g001_undivided_1_1.webp,radiology,ct
+PMC4085913,PMC4085913_01,Tuberculosis,train,PMC4085913_01_JCVJS-5-52-g002.jpg,JCVJS-5-52-g002.jpg,PMC4085913_JCVJS-5-52-g002_undivided_1_1.webp,radiology,mri
+PMC4085913,PMC4085913_01,Tuberculosis,train,PMC4085913_01_JCVJS-5-52-g004.jpg,JCVJS-5-52-g004.jpg,PMC4085913_JCVJS-5-52-g004_undivided_1_1.webp,radiology,x_ray
+PMC4085913,PMC4085913_01,Tuberculosis,train,PMC4085913_01_JCVJS-5-52-g005.jpg,JCVJS-5-52-g005.jpg,PMC4085913_JCVJS-5-52-g005_undivided_1_1.webp,radiology,x_ray
+PMC7322736,PMC7322736_01,Tuberculosis,test,PMC7322736_01_gr1.jpg,gr1.jpg,PMC7322736_gr1_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7322736,PMC7322736_01,Tuberculosis,test,PMC7322736_01_gr3.jpg,gr3.jpg,PMC7322736_gr3_undivided_1_1.webp,radiology,ct
+PMC7322736,PMC7322736_01,Tuberculosis,test,PMC7322736_01_gr5.jpg,gr5.jpg,PMC7322736_gr5_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC10367206,PMC10367206_01,Syphilis,train,PMC10367206_01_1678-9849-rsbmt-56-e0194-2023-gf1.jpg,1678-9849-rsbmt-56-e0194-2023-gf1.jpg,PMC10367206_1678-9849-rsbmt-56-e0194-2023-gf1_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10367206,PMC10367206_01,Syphilis,train,PMC10367206_01_1678-9849-rsbmt-56-e0194-2023-gf2.jpg,1678-9849-rsbmt-56-e0194-2023-gf2.jpg,PMC10367206_1678-9849-rsbmt-56-e0194-2023-gf2_undivided_1_1.webp,medical_photograph,oral_photograph
+PMC10367206,PMC10367206_01,Syphilis,train,PMC10367206_01_1678-9849-rsbmt-56-e0194-2023-gf3.jpg,1678-9849-rsbmt-56-e0194-2023-gf3.jpg,PMC10367206_1678-9849-rsbmt-56-e0194-2023-gf3_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC8286098,PMC8286098_01,Syphilis,train,PMC8286098_01_IMCRJ-14-475-g0001.jpg,IMCRJ-14-475-g0001.jpg,PMC8286098_IMCRJ-14-475-g0001_undivided_1_1.webp,radiology,ct
+PMC7445495,PMC7445495_01,Aspergillosis,train,PMC7445495_01_OTT-13-8317-g0002.jpg,OTT-13-8317-g0002.jpg,PMC7445495_OTT-13-8317-g0002_undivided_1_1.webp,pathology,h&e
+PMC8329517,PMC8329517_01,Aspergillosis,train,PMC8329517_01_gr1.jpg,gr1.jpg,PMC8329517_gr1_undivided_1_1.webp,radiology,ct
+PMC8329517,PMC8329517_01,Aspergillosis,train,PMC8329517_01_gr2.jpg,gr2.jpg,PMC8329517_gr2_undivided_1_1.webp,radiology,mri
+PMC8329517,PMC8329517_01,Aspergillosis,train,PMC8329517_01_gr4.jpg,gr4.jpg,PMC8329517_gr4_undivided_1_1.webp,pathology,h&e
+PMC4770625,PMC4770625_01,Aspergillosis,train,PMC4770625_01_EUS-5-58-g002.jpg,EUS-5-58-g002.jpg,PMC4770625_EUS-5-58-g002_undivided_1_1.webp,radiology,ultrasound
+PMC4770625,PMC4770625_01,Aspergillosis,train,PMC4770625_01_EUS-5-58-g003.jpg,EUS-5-58-g003.jpg,PMC4770625_EUS-5-58-g003_undivided_1_1.webp,radiology,ultrasound
+PMC6912930,PMC6912930_01,Tuberculosis,train,PMC6912930_01_12919_2019_180_Fig1_HTML.jpg,12919_2019_180_Fig1_HTML.jpg,PMC6912930_12919_2019_180_Fig1_HTML_undivided_1_1.webp,pathology,h&e
+PMC8579590,PMC8579590_01,Herpes simplex,train,PMC8579590_01_IJSTD-42-72-g003.jpg,IJSTD-42-72-g003.jpg,PMC8579590_IJSTD-42-72-g003_undivided_1_1.webp,pathology,h&e
+PMC6396576,PMC6396576_01,Tuberculosis,train,PMC6396576_01_JFMPC-8-296-g001.jpg,JFMPC-8-296-g001.jpg,PMC6396576_JFMPC-8-296-g001_undivided_1_1.webp,radiology,ultrasound
+PMC6396576,PMC6396576_01,Tuberculosis,train,PMC6396576_01_JFMPC-8-296-g002.jpg,JFMPC-8-296-g002.jpg,PMC6396576_JFMPC-8-296-g002_undivided_1_1.webp,pathology,h&e
+PMC6830239,PMC6830239_01,Syphilis,train,PMC6830239_01_ZJCH_A_1659665_F0001_OC.jpg,ZJCH_A_1659665_F0001_OC.jpg,PMC6830239_ZJCH_A_1659665_F0001_OC_undivided_1_1.webp,radiology,mri
+PMC8024638,PMC8024638_01,Aspergillosis,train,PMC8024638_01_fonc-11-639395-g001.jpg,fonc-11-639395-g001.jpg,PMC8024638_fonc-11-639395-g001_undivided_1_1.webp,pathology,immunostaining
+PMC6388516,PMC6388516_01,Herpes simplex,test,PMC6388516_01_JOVR-14-93-g001.jpg,JOVR-14-93-g001.jpg,PMC6388516_JOVR-14-93-g001_undivided_1_1.webp,ophthalmic_imaging,slit_lamp_photograph
+PMC6388516,PMC6388516_01,Herpes simplex,test,PMC6388516_01_JOVR-14-93-g002.jpg,JOVR-14-93-g002.jpg,PMC6388516_JOVR-14-93-g002_undivided_1_1.webp,ophthalmic_imaging,slit_lamp_photograph
+PMC6388516,PMC6388516_01,Herpes simplex,test,PMC6388516_01_JOVR-14-93-g003.jpg,JOVR-14-93-g003.jpg,PMC6388516_JOVR-14-93-g003_undivided_1_1.webp,ophthalmic_imaging,slit_lamp_photograph
+PMC6388516,PMC6388516_01,Herpes simplex,test,PMC6388516_01_JOVR-14-93-g004.jpg,JOVR-14-93-g004.jpg,PMC6388516_JOVR-14-93-g004_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC6388516,PMC6388516_01,Herpes simplex,test,PMC6388516_01_JOVR-14-93-g005.jpg,JOVR-14-93-g005.jpg,PMC6388516_JOVR-14-93-g005_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC5389225,PMC5389225_01,Syphilis,train,PMC5389225_01_IJSTD-38-92-g002.jpg,IJSTD-38-92-g002.jpg,PMC5389225_IJSTD-38-92-g002_undivided_1_1.webp,pathology,h&e
+PMC5389225,PMC5389225_01,Syphilis,train,PMC5389225_01_IJSTD-38-92-g003.jpg,IJSTD-38-92-g003.jpg,PMC5389225_IJSTD-38-92-g003_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC5389225,PMC5389225_01,Syphilis,train,PMC5389225_01_IJSTD-38-92-g004.jpg,IJSTD-38-92-g004.jpg,PMC5389225_IJSTD-38-92-g004_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7745643,PMC7745643_01,Aspergillosis,train,PMC7745643_01_OC-10-46-g-001.jpg,OC-10-46-g-001.jpg,PMC7745643_OC-10-46-g-001_undivided_1_1.webp,radiology,mri
+PMC4728598,PMC4728598_01,Syphilis,val,PMC4728598_01_abc-106-01-0070-g01.jpg,abc-106-01-0070-g01.jpg,PMC4728598_abc-106-01-0070-g01_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC4513297,PMC4513297_01,Tuberculosis,val,PMC4513297_01_SNI-6-115-g002.jpg,SNI-6-115-g002.jpg,PMC4513297_SNI-6-115-g002_undivided_1_1.webp,radiology,x_ray
+PMC4327571,PMC4327571_01,Aspergillosis,val,PMC4327571_01_crg-0009-0001-g01.jpg,crg-0009-0001-g01.jpg,PMC4327571_crg-0009-0001-g01_undivided_1_1.webp,radiology,ct
+PMC7782967,PMC7782967_01,Herpes simplex,train,PMC7782967_01_fneur-11-602102-g0001.jpg,fneur-11-602102-g0001.jpg,PMC7782967_fneur-11-602102-g0001_undivided_1_1.webp,pathology,masson_trichrome
+PMC9093648,PMC9093648_01,Syphilis,train,PMC9093648_01_fmed-09-836873-g0001.jpg,fmed-09-836873-g0001.jpg,PMC9093648_fmed-09-836873-g0001_undivided_1_1.webp,ophthalmic_imaging,slit_lamp_photograph
+PMC8646087,PMC8646087_01,Herpes simplex,train,PMC8646087_01_fsurg-08-774702-g0001.jpg,fsurg-08-774702-g0001.jpg,PMC8646087_fsurg-08-774702-g0001_undivided_1_1.webp,radiology,ct
+PMC8646087,PMC8646087_01,Herpes simplex,train,PMC8646087_01_fsurg-08-774702-g0002.jpg,fsurg-08-774702-g0002.jpg,PMC8646087_fsurg-08-774702-g0002_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC8714461,PMC8714461_01,Syphilis,train,PMC8714461_01_CCID-14-1879-g0002.jpg,CCID-14-1879-g0002.jpg,PMC8714461_CCID-14-1879-g0002_undivided_1_1.webp,pathology,h&e
+PMC8714461,PMC8714461_01,Syphilis,train,PMC8714461_01_CCID-14-1879-g0003.jpg,CCID-14-1879-g0003.jpg,PMC8714461_CCID-14-1879-g0003_undivided_1_1.webp,pathology,h&e
+PMC8675614,PMC8675614_01,Aspergillosis,train,PMC8675614_01_toj-20-0163-figure1.jpg,toj-20-0163-figure1.jpg,PMC8675614_toj-20-0163-figure1_undivided_1_1.webp,radiology,x_ray
+PMC8675614,PMC8675614_01,Aspergillosis,train,PMC8675614_01_toj-20-0163-figure2.jpg,toj-20-0163-figure2.jpg,PMC8675614_toj-20-0163-figure2_undivided_1_1.webp,radiology,ct
+PMC8675614,PMC8675614_01,Aspergillosis,train,PMC8675614_01_toj-20-0163-figure3.jpg,toj-20-0163-figure3.jpg,PMC8675614_toj-20-0163-figure3_undivided_1_1.webp,radiology,ct
+PMC8675614,PMC8675614_01,Aspergillosis,train,PMC8675614_01_toj-20-0163-figure4.jpg,toj-20-0163-figure4.jpg,PMC8675614_toj-20-0163-figure4_undivided_1_1.webp,radiology,ct
+PMC8675614,PMC8675614_01,Aspergillosis,train,PMC8675614_01_toj-20-0163-figure5.jpg,toj-20-0163-figure5.jpg,PMC8675614_toj-20-0163-figure5_undivided_1_1.webp,radiology,ct
+PMC8675614,PMC8675614_01,Aspergillosis,train,PMC8675614_01_toj-20-0163-figure6.jpg,toj-20-0163-figure6.jpg,PMC8675614_toj-20-0163-figure6_undivided_1_1.webp,radiology,ct
+PMC8675614,PMC8675614_01,Aspergillosis,train,PMC8675614_01_toj-20-0163-figure7.jpg,toj-20-0163-figure7.jpg,PMC8675614_toj-20-0163-figure7_undivided_1_1.webp,radiology,ct
+PMC10311228,PMC10311228_01,Tuberculosis,test,PMC10311228_01_PAMJ-44-150-g001.jpg,PAMJ-44-150-g001.jpg,PMC10311228_PAMJ-44-150-g001_undivided_1_1.webp,radiology,x_ray
+PMC10413186,PMC10413186_01,Aspergillosis,train,PMC10413186_01_gr1.jpg,gr1.jpg,PMC10413186_gr1_undivided_1_1.webp,radiology,x_ray
+PMC10413186,PMC10413186_01,Aspergillosis,train,PMC10413186_01_gr4.jpg,gr4.jpg,PMC10413186_gr4_undivided_1_1.webp,pathology,immunostaining
+PMC5724925,PMC5724925_01,Herpes simplex,train,PMC5724925_01_NCI-4-273-g001.jpg,NCI-4-273-g001.jpg,PMC5724925_NCI-4-273-g001_undivided_1_1.webp,radiology,mri
+PMC5724925,PMC5724925_01,Herpes simplex,train,PMC5724925_01_NCI-4-273-g002.jpg,NCI-4-273-g002.jpg,PMC5724925_NCI-4-273-g002_undivided_1_1.webp,radiology,mri
+PMC8759583,PMC8759583_01,Syphilis,train,PMC8759583_01_jvb-20-e20210160-g02.jpg,jvb-20-e20210160-g02.jpg,PMC8759583_jvb-20-e20210160-g02_undivided_1_1.webp,radiology,ct
+PMC2799999,PMC2799999_01,Herpes simplex,train,PMC2799999_01_jkms-25-159-g001.jpg,jkms-25-159-g001.jpg,PMC2799999_jkms-25-159-g001_undivided_1_1.webp,pathology,h&e
+PMC7782315,PMC7782315_01,Syphilis,val,PMC7782315_01_fmicb-11-595375-g001.jpg,fmicb-11-595375-g001.jpg,PMC7782315_fmicb-11-595375-g001_undivided_1_1.webp,medical_photograph,oral_photograph
+PMC7782315,PMC7782315_01,Syphilis,val,PMC7782315_01_fmicb-11-595375-g002.jpg,fmicb-11-595375-g002.jpg,PMC7782315_fmicb-11-595375-g002_undivided_1_1.webp,pathology,pas
+PMC7782315,PMC7782315_01,Syphilis,val,PMC7782315_01_fmicb-11-595375-g003.jpg,fmicb-11-595375-g003.jpg,PMC7782315_fmicb-11-595375-g003_undivided_1_1.webp,pathology,immunostaining
+PMC6968688,PMC6968688_01,Tuberculosis,train,PMC6968688_01_ZJCH_A_1687115_F0001_OC.jpg,ZJCH_A_1687115_F0001_OC.jpg,PMC6968688_ZJCH_A_1687115_F0001_OC_undivided_1_1.webp,radiology,ct
+PMC6968688,PMC6968688_01,Tuberculosis,train,PMC6968688_01_ZJCH_A_1687115_F0002_OC.jpg,ZJCH_A_1687115_F0002_OC.jpg,PMC6968688_ZJCH_A_1687115_F0002_OC_undivided_1_1.webp,radiology,ct
+PMC3891416,PMC3891416_01,Tuberculosis,train,PMC3891416_01_kjim-20-72-g001.jpg,kjim-20-72-g001.jpg,PMC3891416_kjim-20-72-g001_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC3891416,PMC3891416_01,Tuberculosis,train,PMC3891416_01_kjim-20-72-g002.jpg,kjim-20-72-g002.jpg,PMC3891416_kjim-20-72-g002_undivided_1_1.webp,radiology,ct
+PMC3891416,PMC3891416_01,Tuberculosis,train,PMC3891416_01_kjim-20-72-g003.jpg,kjim-20-72-g003.jpg,PMC3891416_kjim-20-72-g003_undivided_1_1.webp,radiology,ultrasound
+PMC3891416,PMC3891416_01,Tuberculosis,train,PMC3891416_01_kjim-20-72-g004.jpg,kjim-20-72-g004.jpg,PMC3891416_kjim-20-72-g004_undivided_1_1.webp,pathology,h&e
+PMC8348689,PMC8348689_01,Aspergillosis,train,PMC8348689_01_fx1.jpg,fx1.jpg,PMC8348689_fx1_undivided_1_1.webp,radiology,ct
+PMC8348689,PMC8348689_01,Aspergillosis,train,PMC8348689_01_fx2.jpg,fx2.jpg,PMC8348689_fx2_undivided_1_1.webp,radiology,ct
+PMC6735355,PMC6735355_01,Herpes simplex,val,PMC6735355_01_ZJCH_A_1650590_F0001_OC.jpg,ZJCH_A_1650590_F0001_OC.jpg,PMC6735355_ZJCH_A_1650590_F0001_OC_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC6735355,PMC6735355_01,Herpes simplex,val,PMC6735355_01_ZJCH_A_1650590_F0002_OC.jpg,ZJCH_A_1650590_F0002_OC.jpg,PMC6735355_ZJCH_A_1650590_F0002_OC_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10149062,PMC10149062_01,Herpes simplex,val,PMC10149062_01_IDR-16-2467-g0001.jpg,IDR-16-2467-g0001.jpg,PMC10149062_IDR-16-2467-g0001_undivided_1_1.webp,pathology,giemsa
+PMC4153231,PMC4153231_01,Tuberculosis,train,PMC4153231_01_Tanaffos-12-074-g001.jpg,Tanaffos-12-074-g001.jpg,PMC4153231_Tanaffos-12-074-g001_undivided_1_1.webp,pathology,fish
+PMC6532491,PMC6532491_01,Syphilis,train,PMC6532491_01_IJSTD-40-70-g001.jpg,IJSTD-40-70-g001.jpg,PMC6532491_IJSTD-40-70-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC6532491,PMC6532491_01,Syphilis,train,PMC6532491_01_IJSTD-40-70-g002.jpg,IJSTD-40-70-g002.jpg,PMC6532491_IJSTD-40-70-g002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC3481801,PMC3481801_01,Herpes simplex,test,PMC3481801_01_IDOJ-2-16-g001.jpg,IDOJ-2-16-g001.jpg,PMC3481801_IDOJ-2-16-g001_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC3481801,PMC3481801_01,Herpes simplex,test,PMC3481801_01_IDOJ-2-16-g002.jpg,IDOJ-2-16-g002.jpg,PMC3481801_IDOJ-2-16-g002_undivided_1_1.webp,pathology,giemsa
+PMC3481801,PMC3481801_01,Herpes simplex,test,PMC3481801_01_IDOJ-2-16-g003.jpg,IDOJ-2-16-g003.jpg,PMC3481801_IDOJ-2-16-g003_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC5359379,PMC5359379_01,Herpes simplex,train,PMC5359379_01_717_2016_325_Fig1_HTML.jpg,717_2016_325_Fig1_HTML.jpg,PMC5359379_717_2016_325_Fig1_HTML_undivided_1_1.webp,pathology,fish
+PMC5359379,PMC5359379_01,Herpes simplex,train,PMC5359379_01_717_2016_325_Fig2_HTML.jpg,717_2016_325_Fig2_HTML.jpg,PMC5359379_717_2016_325_Fig2_HTML_undivided_1_1.webp,pathology,h&e
+PMC7680238,PMC7680238_01,Syphilis,train,PMC7680238_01_PAMJ-37-65-g001.jpg,PAMJ-37-65-g001.jpg,PMC7680238_PAMJ-37-65-g001_undivided_1_1.webp,radiology,ultrasound
+PMC7680238,PMC7680238_01,Syphilis,train,PMC7680238_01_PAMJ-37-65-g002.jpg,PAMJ-37-65-g002.jpg,PMC7680238_PAMJ-37-65-g002_undivided_1_1.webp,radiology,ct
+PMC7680238,PMC7680238_01,Syphilis,train,PMC7680238_01_PAMJ-37-65-g003.jpg,PAMJ-37-65-g003.jpg,PMC7680238_PAMJ-37-65-g003_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7680238,PMC7680238_01,Syphilis,train,PMC7680238_01_PAMJ-37-65-g004.jpg,PAMJ-37-65-g004.jpg,PMC7680238_PAMJ-37-65-g004_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC6503770,PMC6503770_01,Aspergillosis,test,PMC6503770_01_JOMFP-23-144-g003.jpg,JOMFP-23-144-g003.jpg,PMC6503770_JOMFP-23-144-g003_undivided_1_1.webp,pathology,methenamine_silver
+PMC6503770,PMC6503770_01,Aspergillosis,test,PMC6503770_01_JOMFP-23-144-g005.jpg,JOMFP-23-144-g005.jpg,PMC6503770_JOMFP-23-144-g005_undivided_1_1.webp,pathology,methenamine_silver
+PMC8711139,PMC8711139_01,Herpes simplex,val,PMC8711139_01_IMCRJ-14-849-g0001.jpg,IMCRJ-14-849-g0001.jpg,PMC8711139_IMCRJ-14-849-g0001_undivided_1_1.webp,radiology,ultrasound
+PMC3326964,PMC3326964_01,Tuberculosis,train,PMC3326964_01_JGID-4-75-g002.jpg,JGID-4-75-g002.jpg,PMC3326964_JGID-4-75-g002_undivided_1_1.webp,pathology,h&e
+PMC4578064,PMC4578064_01,Syphilis,val,PMC4578064_01_kjim-16-4-265-9f1.jpg,kjim-16-4-265-9f1.jpg,PMC4578064_kjim-16-4-265-9f1_undivided_1_1.webp,radiology,x_ray
+PMC4578064,PMC4578064_01,Syphilis,val,PMC4578064_01_kjim-16-4-265-9f4.jpg,kjim-16-4-265-9f4.jpg,PMC4578064_kjim-16-4-265-9f4_undivided_1_1.webp,radiology,x_ray
+PMC4578064,PMC4578064_01,Syphilis,val,PMC4578064_01_kjim-16-4-265-9f5.jpg,kjim-16-4-265-9f5.jpg,PMC4578064_kjim-16-4-265-9f5_undivided_1_1.webp,radiology,x_ray
+PMC4578064,PMC4578064_01,Syphilis,val,PMC4578064_01_kjim-16-4-265-9f6.jpg,kjim-16-4-265-9f6.jpg,PMC4578064_kjim-16-4-265-9f6_undivided_1_1.webp,radiology,x_ray
+PMC7069532,PMC7069532_01,Herpes simplex,train,PMC7069532_01_GHFBB-13-86-g001.jpg,GHFBB-13-86-g001.jpg,PMC7069532_GHFBB-13-86-g001_undivided_1_1.webp,ophthalmic_imaging,oct
+PMC555544,PMC555544_01,Aspergillosis,test,PMC555544_01_1476-0711-4-4-1.jpg,1476-0711-4-4-1.jpg,PMC555544_1476-0711-4-4-1_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC555544,PMC555544_01,Aspergillosis,test,PMC555544_01_1476-0711-4-4-2.jpg,1476-0711-4-4-2.jpg,PMC555544_1476-0711-4-4-2_undivided_1_1.webp,radiology,ct
+PMC555544,PMC555544_01,Aspergillosis,test,PMC555544_01_1476-0711-4-4-3.jpg,1476-0711-4-4-3.jpg,PMC555544_1476-0711-4-4-3_undivided_1_1.webp,pathology,h&e
+PMC8560170,PMC8560170_01,Syphilis,train,PMC8560170_01_IDR-14-4441-g0001.jpg,IDR-14-4441-g0001.jpg,PMC8560170_IDR-14-4441-g0001_undivided_1_1.webp,pathology,masson_trichrome
+PMC8560170,PMC8560170_01,Syphilis,train,PMC8560170_01_IDR-14-4441-g0002.jpg,IDR-14-4441-g0002.jpg,PMC8560170_IDR-14-4441-g0002_undivided_1_1.webp,pathology,masson_trichrome
+PMC7162578,PMC7162578_02,Tuberculosis,train,PMC7162578_02_1485_Fig1.jpg,1485_Fig1.jpg,PMC7162578_1485_Fig1_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC3730475,PMC3730475_01,Syphilis,test,PMC3730475_01_IJSTD-34-44-g001.jpg,IJSTD-34-44-g001.jpg,PMC3730475_IJSTD-34-44-g001_undivided_1_1.webp,pathology,fish
+PMC3730475,PMC3730475_01,Syphilis,test,PMC3730475_01_IJSTD-34-44-g002.jpg,IJSTD-34-44-g002.jpg,PMC3730475_IJSTD-34-44-g002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC6542492,PMC6542492_01,Syphilis,train,PMC6542492_01_1115_Fig1.jpg,1115_Fig1.jpg,PMC6542492_1115_Fig1_undivided_1_1.webp,radiology,x_ray
+PMC8795895,PMC8795895_01,Herpes simplex,test,PMC8795895_01_fped-09-775318-g0003.jpg,fped-09-775318-g0003.jpg,PMC8795895_fped-09-775318-g0003_undivided_1_1.webp,pathology,immunostaining
+PMC6479785,PMC6479785_01,Tuberculosis,train,PMC6479785_01_gr3.jpg,gr3.jpg,PMC6479785_gr3_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC5761185,PMC5761185_01,Herpes simplex,train,PMC5761185_01_40842_2017_53_Fig3_HTML.jpg,40842_2017_53_Fig3_HTML.jpg,PMC5761185_40842_2017_53_Fig3_HTML_undivided_1_1.webp,radiology,ct
+PMC8035539,PMC8035539_01,Syphilis,train,PMC8035539_01_GHFBB-14-77-g002.jpg,GHFBB-14-77-g002.jpg,PMC8035539_GHFBB-14-77-g002_undivided_1_1.webp,pathology,h&e
+PMC8035539,PMC8035539_01,Syphilis,train,PMC8035539_01_GHFBB-14-77-g003.jpg,GHFBB-14-77-g003.jpg,PMC8035539_GHFBB-14-77-g003_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC4531972,PMC4531972_01,Tuberculosis,train,PMC4531972_01_kjim-12-1-75-14f1.jpg,kjim-12-1-75-14f1.jpg,PMC4531972_kjim-12-1-75-14f1_undivided_1_1.webp,pathology,h&e
+PMC4531972,PMC4531972_01,Tuberculosis,train,PMC4531972_01_kjim-12-1-75-14f2.jpg,kjim-12-1-75-14f2.jpg,PMC4531972_kjim-12-1-75-14f2_undivided_1_1.webp,pathology,congo_red
+PMC3472730,PMC3472730_01,Aspergillosis,train,PMC3472730_01_ijms-13-11063f1.jpg,ijms-13-11063f1.jpg,PMC3472730_ijms-13-11063f1_undivided_1_1.webp,radiology,mri
+PMC3472730,PMC3472730_01,Aspergillosis,train,PMC3472730_01_ijms-13-11063f2.jpg,ijms-13-11063f2.jpg,PMC3472730_ijms-13-11063f2_undivided_1_1.webp,pathology,h&e
+PMC3472730,PMC3472730_01,Aspergillosis,train,PMC3472730_01_ijms-13-11063f3.jpg,ijms-13-11063f3.jpg,PMC3472730_ijms-13-11063f3_undivided_1_1.webp,radiology,mri
+PMC5577842,PMC5577842_01,Aspergillosis,train,PMC5577842_01_13223_2017_211_Fig1_HTML.jpg,13223_2017_211_Fig1_HTML.jpg,PMC5577842_13223_2017_211_Fig1_HTML_undivided_1_1.webp,pathology,immunostaining
+PMC8597364,PMC8597364_01,Tuberculosis,train,PMC8597364_01_RJME-62-1-279-fig1.jpg,RJME-62-1-279-fig1.jpg,PMC8597364_RJME-62-1-279-fig1_undivided_1_1.webp,pathology,immunostaining
+PMC8597364,PMC8597364_01,Tuberculosis,train,PMC8597364_01_RJME-62-1-279-fig2.jpg,RJME-62-1-279-fig2.jpg,PMC8597364_RJME-62-1-279-fig2_undivided_1_1.webp,pathology,giemsa
+PMC6394359,PMC6394359_01,Herpes simplex,test,PMC6394359_01_autopsy-09-01e2018046-g02.jpg,autopsy-09-01e2018046-g02.jpg,PMC6394359_autopsy-09-01e2018046-g02_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC6348653,PMC6348653_01,Syphilis,train,PMC6348653_01_12610_2018_81_Fig1_HTML.jpg,12610_2018_81_Fig1_HTML.jpg,PMC6348653_12610_2018_81_Fig1_HTML_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC6348653,PMC6348653_01,Syphilis,train,PMC6348653_01_12610_2018_81_Fig2_HTML.jpg,12610_2018_81_Fig2_HTML.jpg,PMC6348653_12610_2018_81_Fig2_HTML_undivided_1_1.webp,pathology,h&e
+PMC8259593,PMC8259593_01,Aspergillosis,train,PMC8259593_01_fimmu-12-695954-g001.jpg,fimmu-12-695954-g001.jpg,PMC8259593_fimmu-12-695954-g001_undivided_1_1.webp,radiology,x_ray
+PMC8259593,PMC8259593_01,Aspergillosis,train,PMC8259593_01_fimmu-12-695954-g002.jpg,fimmu-12-695954-g002.jpg,PMC8259593_fimmu-12-695954-g002_undivided_1_1.webp,radiology,ct
+PMC8259593,PMC8259593_01,Aspergillosis,train,PMC8259593_01_fimmu-12-695954-g003.jpg,fimmu-12-695954-g003.jpg,PMC8259593_fimmu-12-695954-g003_undivided_1_1.webp,endoscopy,airway_endoscopy
+PMC8259593,PMC8259593_01,Aspergillosis,train,PMC8259593_01_fimmu-12-695954-g004.jpg,fimmu-12-695954-g004.jpg,PMC8259593_fimmu-12-695954-g004_undivided_1_1.webp,radiology,ct
+PMC9120773,PMC9120773_01,Aspergillosis,val,PMC9120773_01_fonc-12-824393-g001.jpg,fonc-12-824393-g001.jpg,PMC9120773_fonc-12-824393-g001_undivided_1_1.webp,endoscopy,airway_endoscopy
+PMC4095839,PMC4095839_01,Aspergillosis,train,PMC4095839_01_hlv-06-119-g002.jpg,hlv-06-119-g002.jpg,PMC4095839_hlv-06-119-g002_undivided_1_1.webp,radiology,ct
+PMC4095839,PMC4095839_01,Aspergillosis,train,PMC4095839_01_hlv-06-119-g003.jpg,hlv-06-119-g003.jpg,PMC4095839_hlv-06-119-g003_undivided_1_1.webp,pathology,gram
+PMC4095839,PMC4095839_01,Aspergillosis,train,PMC4095839_01_hlv-06-119-g004.jpg,hlv-06-119-g004.jpg,PMC4095839_hlv-06-119-g004_undivided_1_1.webp,radiology,ct
+PMC4095839,PMC4095839_01,Aspergillosis,train,PMC4095839_01_hlv-06-119-g005.jpg,hlv-06-119-g005.jpg,PMC4095839_hlv-06-119-g005_undivided_1_1.webp,pathology,masson_trichrome
+PMC4779354,PMC4779354_01,Aspergillosis,test,PMC4779354_01_MA-70-76-g001.jpg,MA-70-76-g001.jpg,PMC4779354_MA-70-76-g001_undivided_1_1.webp,radiology,ct
+PMC4779354,PMC4779354_01,Aspergillosis,test,PMC4779354_01_MA-70-76-g002.jpg,MA-70-76-g002.jpg,PMC4779354_MA-70-76-g002_undivided_1_1.webp,radiology,ct
+PMC4779354,PMC4779354_01,Aspergillosis,test,PMC4779354_01_MA-70-76-g003.jpg,MA-70-76-g003.jpg,PMC4779354_MA-70-76-g003_undivided_1_1.webp,radiology,ct
+PMC4779354,PMC4779354_01,Aspergillosis,test,PMC4779354_01_MA-70-76-g004.jpg,MA-70-76-g004.jpg,PMC4779354_MA-70-76-g004_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC2655297,PMC2655297_01,Aspergillosis,test,PMC2655297_01_1752-1947-3-26-1.jpg,1752-1947-3-26-1.jpg,PMC2655297_1752-1947-3-26-1_undivided_1_1.webp,radiology,ct
+PMC2655297,PMC2655297_01,Aspergillosis,test,PMC2655297_01_1752-1947-3-26-2.jpg,1752-1947-3-26-2.jpg,PMC2655297_1752-1947-3-26-2_undivided_1_1.webp,radiology,ct
+PMC2655297,PMC2655297_01,Aspergillosis,test,PMC2655297_01_1752-1947-3-26-3.jpg,1752-1947-3-26-3.jpg,PMC2655297_1752-1947-3-26-3_undivided_1_1.webp,radiology,ct
+PMC4763698,PMC4763698_01,Tuberculosis,val,PMC4763698_01_IJD-61-70-g001.jpg,IJD-61-70-g001.jpg,PMC4763698_IJD-61-70-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC4763698,PMC4763698_01,Tuberculosis,val,PMC4763698_01_IJD-61-70-g002.jpg,IJD-61-70-g002.jpg,PMC4763698_IJD-61-70-g002_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC3861246,PMC3861246_01,Tuberculosis,val,PMC3861246_01_ETM-07-01-0141-g01.jpg,ETM-07-01-0141-g01.jpg,PMC3861246_ETM-07-01-0141-g01_undivided_1_1.webp,radiology,ct
+PMC3463142,PMC3463142_01,Syphilis,train,PMC3463142_01_SNI-3-87-g002.jpg,SNI-3-87-g002.jpg,PMC3463142_SNI-3-87-g002_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC2822822,PMC2822822_01,Aspergillosis,train,PMC2822822_01_1757-1626-3-31-1.jpg,1757-1626-3-31-1.jpg,PMC2822822_1757-1626-3-31-1_undivided_1_1.webp,pathology,gram
+PMC3800390,PMC3800390_01,Herpes simplex,test,PMC3800390_01_NJMS-4-77-g001.jpg,NJMS-4-77-g001.jpg,PMC3800390_NJMS-4-77-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3800390,PMC3800390_01,Herpes simplex,test,PMC3800390_01_NJMS-4-77-g002.jpg,NJMS-4-77-g002.jpg,PMC3800390_NJMS-4-77-g002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC3800390,PMC3800390_01,Herpes simplex,test,PMC3800390_01_NJMS-4-77-g003.jpg,NJMS-4-77-g003.jpg,PMC3800390_NJMS-4-77-g003_undivided_1_1.webp,radiology,mri
+PMC5514794,PMC5514794_01,Herpes simplex,test,PMC5514794_01_IJT-9-33-g001.jpg,IJT-9-33-g001.jpg,PMC5514794_IJT-9-33-g001_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC5514794,PMC5514794_01,Herpes simplex,test,PMC5514794_01_IJT-9-33-g002.jpg,IJT-9-33-g002.jpg,PMC5514794_IJT-9-33-g002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC5726666,PMC5726666_01,Syphilis,train,PMC5726666_01_abd-92-05-s1-0017-g04.jpg,abd-92-05-s1-0017-g04.jpg,PMC5726666_abd-92-05-s1-0017-g04_undivided_1_1.webp,pathology,fish
+PMC5726666,PMC5726666_01,Syphilis,train,PMC5726666_01_abd-92-05-s1-0017-g05.jpg,abd-92-05-s1-0017-g05.jpg,PMC5726666_abd-92-05-s1-0017-g05_undivided_1_1.webp,pathology,h&e
+PMC5726666,PMC5726666_01,Syphilis,train,PMC5726666_01_abd-92-05-s1-0017-g06.jpg,abd-92-05-s1-0017-g06.jpg,PMC5726666_abd-92-05-s1-0017-g06_undivided_1_1.webp,pathology,h&e
+PMC5726666,PMC5726666_01,Syphilis,train,PMC5726666_01_abd-92-05-s1-0017-g02.jpg,abd-92-05-s1-0017-g02.jpg,PMC5726666_abd-92-05-s1-0017-g02_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC5726666,PMC5726666_01,Syphilis,train,PMC5726666_01_abd-92-05-s1-0017-g03.jpg,abd-92-05-s1-0017-g03.jpg,PMC5726666_abd-92-05-s1-0017-g03_undivided_1_1.webp,pathology,fish
+PMC4237767,PMC4237767_01,Tuberculosis,val,PMC4237767_01_12871_2014_314_Fig3_HTML.jpg,12871_2014_314_Fig3_HTML.jpg,PMC4237767_12871_2014_314_Fig3_HTML_undivided_1_1.webp,pathology,h&e
+PMC8019250,PMC8019250_01,Herpes simplex,test,PMC8019250_01_j_med-2021-0256-fig001.jpg,j_med-2021-0256-fig001.jpg,PMC8019250_j_med-2021-0256-fig001_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC8019250,PMC8019250_01,Herpes simplex,test,PMC8019250_01_j_med-2021-0256-fig002.jpg,j_med-2021-0256-fig002.jpg,PMC8019250_j_med-2021-0256-fig002_undivided_1_1.webp,pathology,h&e
+PMC8019250,PMC8019250_01,Herpes simplex,test,PMC8019250_01_j_med-2021-0256-fig003.jpg,j_med-2021-0256-fig003.jpg,PMC8019250_j_med-2021-0256-fig003_undivided_1_1.webp,pathology,immunostaining
+PMC8019250,PMC8019250_01,Herpes simplex,test,PMC8019250_01_j_med-2021-0256-fig004.jpg,j_med-2021-0256-fig004.jpg,PMC8019250_j_med-2021-0256-fig004_undivided_1_1.webp,pathology,immunostaining
+PMC10200986,PMC10200986_01,Aspergillosis,val,PMC10200986_01_fimmu-14-1164181-g002.jpg,fimmu-14-1164181-g002.jpg,PMC10200986_fimmu-14-1164181-g002_undivided_1_1.webp,pathology,immunostaining
+PMC10440429,PMC10440429_01,Syphilis,train,PMC10440429_01_fmed-10-1209174-g0001.jpg,fmed-10-1209174-g0001.jpg,PMC10440429_fmed-10-1209174-g0001_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10367195,PMC10367195_01,Tuberculosis,train,PMC10367195_01_1678-9849-rsbmt-56-e0072-2023-gf1.jpg,1678-9849-rsbmt-56-e0072-2023-gf1.jpg,PMC10367195_1678-9849-rsbmt-56-e0072-2023-gf1_undivided_1_1.webp,radiology,ct
+PMC3740612,PMC3740612_01,Syphilis,train,PMC3740612_01_SNI-4-99-g001.jpg,SNI-4-99-g001.jpg,PMC3740612_SNI-4-99-g001_undivided_1_1.webp,radiology,mri
+PMC3740612,PMC3740612_01,Syphilis,train,PMC3740612_01_SNI-4-99-g002.jpg,SNI-4-99-g002.jpg,PMC3740612_SNI-4-99-g002_undivided_1_1.webp,radiology,ct
+PMC3740612,PMC3740612_01,Syphilis,train,PMC3740612_01_SNI-4-99-g004.jpg,SNI-4-99-g004.jpg,PMC3740612_SNI-4-99-g004_undivided_1_1.webp,pathology,h&e
+PMC4719720,PMC4719720_01,Herpes simplex,train,PMC4719720_01_12879_2016_1343_Fig2_HTML.jpg,12879_2016_1343_Fig2_HTML.jpg,PMC4719720_12879_2016_1343_Fig2_HTML_undivided_1_1.webp,pathology,immunostaining
+PMC8364388,PMC8364388_01,Aspergillosis,train,PMC8364388_01_OTT-14-4407-g0004.jpg,OTT-14-4407-g0004.jpg,PMC8364388_OTT-14-4407-g0004_undivided_1_1.webp,radiology,ultrasound
+PMC3892129,PMC3892129_01,Tuberculosis,train,PMC3892129_01_1756-0500-7-9-1.jpg,1756-0500-7-9-1.jpg,PMC3892129_1756-0500-7-9-1_undivided_1_1.webp,radiology,ct
+PMC3892129,PMC3892129_01,Tuberculosis,train,PMC3892129_01_1756-0500-7-9-2.jpg,1756-0500-7-9-2.jpg,PMC3892129_1756-0500-7-9-2_undivided_1_1.webp,radiology,mri
+PMC3130373,PMC3130373_01,Aspergillosis,val,PMC3130373_01_SNI-2-75-g001.jpg,SNI-2-75-g001.jpg,PMC3130373_SNI-2-75-g001_undivided_1_1.webp,radiology,ct
+PMC10362915,PMC10362915_01,Tuberculosis,train,PMC10362915_01_IDR-16-4677-g0001.jpg,IDR-16-4677-g0001.jpg,PMC10362915_IDR-16-4677-g0001_undivided_1_1.webp,pathology,immunostaining
+PMC10362915,PMC10362915_01,Tuberculosis,train,PMC10362915_01_IDR-16-4677-g0002.jpg,IDR-16-4677-g0002.jpg,PMC10362915_IDR-16-4677-g0002_undivided_1_1.webp,radiology,ct
+PMC3872660,PMC3872660_01,Aspergillosis,test,PMC3872660_01_JCVJS-4-35-g001.jpg,JCVJS-4-35-g001.jpg,PMC3872660_JCVJS-4-35-g001_undivided_1_1.webp,radiology,mri
+PMC3872660,PMC3872660_01,Aspergillosis,test,PMC3872660_01_JCVJS-4-35-g002.jpg,JCVJS-4-35-g002.jpg,PMC3872660_JCVJS-4-35-g002_undivided_1_1.webp,radiology,mri
+PMC5881561,PMC5881561_01,Herpes simplex,train,PMC5881561_01_PAMJ-28-218-g001.jpg,PAMJ-28-218-g001.jpg,PMC5881561_PAMJ-28-218-g001_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC5749471,PMC5749471_01,Aspergillosis,test,PMC5749471_01_17-1265-F2.jpg,17-1265-F2.jpg,PMC5749471_17-1265-F2_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC4532066,PMC4532066_01,Herpes simplex,val,PMC4532066_01_kjim-9-2-120-12f2.jpg,kjim-9-2-120-12f2.jpg,PMC4532066_kjim-9-2-120-12f2_undivided_1_1.webp,endoscopy,airway_endoscopy
+PMC4532066,PMC4532066_01,Herpes simplex,val,PMC4532066_01_kjim-9-2-120-12f4.jpg,kjim-9-2-120-12f4.jpg,PMC4532066_kjim-9-2-120-12f4_undivided_1_1.webp,pathology,fish
+PMC8382309,PMC8382309_01,Syphilis,val,PMC8382309_01_IDR-14-3307-g0001.jpg,IDR-14-3307-g0001.jpg,PMC8382309_IDR-14-3307-g0001_undivided_1_1.webp,radiology,ct
+PMC8278857,PMC8278857_01,Tuberculosis,train,PMC8278857_01_AJTCCM-25-4-026-fig1.jpg,AJTCCM-25-4-026-fig1.jpg,PMC8278857_AJTCCM-25-4-026-fig1_undivided_1_1.webp,radiology,x_ray
+PMC8278857,PMC8278857_01,Tuberculosis,train,PMC8278857_01_AJTCCM-25-4-026-fig2.jpg,AJTCCM-25-4-026-fig2.jpg,PMC8278857_AJTCCM-25-4-026-fig2_undivided_1_1.webp,radiology,ct
+PMC8278857,PMC8278857_01,Tuberculosis,train,PMC8278857_01_AJTCCM-25-4-026-fig3.jpg,AJTCCM-25-4-026-fig3.jpg,PMC8278857_AJTCCM-25-4-026-fig3_undivided_1_1.webp,radiology,ct
+PMC4066598,PMC4066598_01,Syphilis,train,PMC4066598_01_IJSTD-35-46-g001.jpg,IJSTD-35-46-g001.jpg,PMC4066598_IJSTD-35-46-g001_undivided_1_1.webp,radiology,x_ray
+PMC4066598,PMC4066598_01,Syphilis,train,PMC4066598_01_IJSTD-35-46-g002.jpg,IJSTD-35-46-g002.jpg,PMC4066598_IJSTD-35-46-g002_undivided_1_1.webp,radiology,ct
+PMC4066598,PMC4066598_01,Syphilis,train,PMC4066598_01_IJSTD-35-46-g003.jpg,IJSTD-35-46-g003.jpg,PMC4066598_IJSTD-35-46-g003_undivided_1_1.webp,radiology,ct
+PMC4296413,PMC4296413_01,Tuberculosis,train,PMC4296413_01_IJCCM-19-50-g002.jpg,IJCCM-19-50-g002.jpg,PMC4296413_IJCCM-19-50-g002_undivided_1_1.webp,radiology,ct
+PMC3088941,PMC3088941_03,Herpes simplex,val,PMC3088941_03_IJD-56-74-g003.jpg,IJD-56-74-g003.jpg,PMC3088941_IJD-56-74-g003_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC7497822,PMC7497822_01,Aspergillosis,train,PMC7497822_01_acmi-2-139-g001.jpg,acmi-2-139-g001.jpg,PMC7497822_acmi-2-139-g001_undivided_1_1.webp,radiology,mri
+PMC7497822,PMC7497822_01,Aspergillosis,train,PMC7497822_01_acmi-2-139-g002.jpg,acmi-2-139-g002.jpg,PMC7497822_acmi-2-139-g002_undivided_1_1.webp,pathology,immunostaining
+PMC7497822,PMC7497822_01,Aspergillosis,train,PMC7497822_01_acmi-2-139-g003.jpg,acmi-2-139-g003.jpg,PMC7497822_acmi-2-139-g003_undivided_1_1.webp,pathology,gram
+PMC7497822,PMC7497822_01,Aspergillosis,train,PMC7497822_01_acmi-2-139-g004.jpg,acmi-2-139-g004.jpg,PMC7497822_acmi-2-139-g004_undivided_1_1.webp,pathology,immunostaining
+PMC7497822,PMC7497822_01,Aspergillosis,train,PMC7497822_01_acmi-2-139-g005.jpg,acmi-2-139-g005.jpg,PMC7497822_acmi-2-139-g005_undivided_1_1.webp,pathology,h&e
+PMC7497822,PMC7497822_01,Aspergillosis,train,PMC7497822_01_acmi-2-139-g006.jpg,acmi-2-139-g006.jpg,PMC7497822_acmi-2-139-g006_undivided_1_1.webp,radiology,mri
+PMC3528042,PMC3528042_01,Tuberculosis,train,PMC3528042_01_TOORTHJ-6-582_F1.jpg,TOORTHJ-6-582_F1.jpg,PMC3528042_TOORTHJ-6-582_F1_undivided_1_1.webp,radiology,x_ray
+PMC3528042,PMC3528042_01,Tuberculosis,train,PMC3528042_01_TOORTHJ-6-582_F2.jpg,TOORTHJ-6-582_F2.jpg,PMC3528042_TOORTHJ-6-582_F2_undivided_1_1.webp,radiology,x_ray
+PMC3528042,PMC3528042_01,Tuberculosis,train,PMC3528042_01_TOORTHJ-6-582_F3.jpg,TOORTHJ-6-582_F3.jpg,PMC3528042_TOORTHJ-6-582_F3_undivided_1_1.webp,radiology,x_ray
+PMC3528042,PMC3528042_01,Tuberculosis,train,PMC3528042_01_TOORTHJ-6-582_F4.jpg,TOORTHJ-6-582_F4.jpg,PMC3528042_TOORTHJ-6-582_F4_undivided_1_1.webp,radiology,x_ray
+PMC3528042,PMC3528042_01,Tuberculosis,train,PMC3528042_01_TOORTHJ-6-582_F5.jpg,TOORTHJ-6-582_F5.jpg,PMC3528042_TOORTHJ-6-582_F5_undivided_1_1.webp,radiology,x_ray
+PMC4722097,PMC4722097_01,Aspergillosis,train,PMC4722097_01_RCR2-4-32-g001.jpg,RCR2-4-32-g001.jpg,PMC4722097_RCR2-4-32-g001_undivided_1_1.webp,radiology,ct
+PMC4722097,PMC4722097_01,Aspergillosis,train,PMC4722097_01_RCR2-4-32-g003.jpg,RCR2-4-32-g003.jpg,PMC4722097_RCR2-4-32-g003_undivided_1_1.webp,endoscopy,airway_endoscopy
+PMC6307918,PMC6307918_01,Syphilis,val,PMC6307918_01_PAMJ-30-250-g001.jpg,PAMJ-30-250-g001.jpg,PMC6307918_PAMJ-30-250-g001_undivided_1_1.webp,radiology,ct
+PMC8016052,PMC8016052_01,Aspergillosis,train,PMC8016052_01_SJA-15-50-g001.jpg,SJA-15-50-g001.jpg,PMC8016052_SJA-15-50-g001_undivided_1_1.webp,radiology,ct
+PMC8016052,PMC8016052_01,Aspergillosis,train,PMC8016052_01_SJA-15-50-g002.jpg,SJA-15-50-g002.jpg,PMC8016052_SJA-15-50-g002_undivided_1_1.webp,radiology,ct
+PMC8016052,PMC8016052_01,Aspergillosis,train,PMC8016052_01_SJA-15-50-g003.jpg,SJA-15-50-g003.jpg,PMC8016052_SJA-15-50-g003_undivided_1_1.webp,radiology,x_ray
+PMC6044367,PMC6044367_01,Tuberculosis,train,PMC6044367_01_imcrj-11-151Fig1.jpg,imcrj-11-151Fig1.jpg,PMC6044367_imcrj-11-151Fig1_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC6044367,PMC6044367_01,Tuberculosis,train,PMC6044367_01_imcrj-11-151Fig2.jpg,imcrj-11-151Fig2.jpg,PMC6044367_imcrj-11-151Fig2_undivided_1_1.webp,pathology,h&e
+PMC6044367,PMC6044367_01,Tuberculosis,train,PMC6044367_01_imcrj-11-151Fig3.jpg,imcrj-11-151Fig3.jpg,PMC6044367_imcrj-11-151Fig3_undivided_1_1.webp,pathology,acid_fast
+PMC6044367,PMC6044367_01,Tuberculosis,train,PMC6044367_01_imcrj-11-151Fig4.jpg,imcrj-11-151Fig4.jpg,PMC6044367_imcrj-11-151Fig4_undivided_1_1.webp,radiology,x_ray
+PMC4721185,PMC4721185_01,Herpes simplex,train,PMC4721185_01_13256_2016_803_Fig1_HTML.jpg,13256_2016_803_Fig1_HTML.jpg,PMC4721185_13256_2016_803_Fig1_HTML_undivided_1_1.webp,radiology,ct
+PMC8573815,PMC8573815_01,Herpes simplex,train,PMC8573815_01_AJTCCM-27-3-112-fig1.jpg,AJTCCM-27-3-112-fig1.jpg,PMC8573815_AJTCCM-27-3-112-fig1_undivided_1_1.webp,radiology,ct
+PMC4835738,PMC4835738_01,Aspergillosis,train,PMC4835738_01_iranjradiol-13-01-27890-g003.jpg,iranjradiol-13-01-27890-g003.jpg,PMC4835738_iranjradiol-13-01-27890-g003_undivided_1_1.webp,radiology,scintigraphy
+PMC4835738,PMC4835738_01,Aspergillosis,train,PMC4835738_01_iranjradiol-13-01-27890-g004.jpg,iranjradiol-13-01-27890-g004.jpg,PMC4835738_iranjradiol-13-01-27890-g004_undivided_1_1.webp,pathology,methenamine_silver
+PMC3497843,PMC3497843_01,Tuberculosis,train,PMC3497843_01_AJID0501-0007Fig1.jpg,AJID0501-0007Fig1.jpg,PMC3497843_AJID0501-0007Fig1_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3497843,PMC3497843_01,Tuberculosis,train,PMC3497843_01_AJID0501-0007Fig2.jpg,AJID0501-0007Fig2.jpg,PMC3497843_AJID0501-0007Fig2_undivided_1_1.webp,pathology,h&e
+PMC2636058,PMC2636058_01,Syphilis,train,PMC2636058_01_IndianJOphthalmol-56-73-g001.jpg,IndianJOphthalmol-56-73-g001.jpg,PMC2636058_IndianJOphthalmol-56-73-g001_undivided_1_1.webp,ophthalmic_imaging,fundus_photograph
+PMC2636058,PMC2636058_01,Syphilis,train,PMC2636058_01_IndianJOphthalmol-56-73-g002.jpg,IndianJOphthalmol-56-73-g002.jpg,PMC2636058_IndianJOphthalmol-56-73-g002_undivided_1_1.webp,ophthalmic_imaging,ophthalmic_angiography
+PMC4593014,PMC4593014_01,Aspergillosis,val,PMC4593014_01_hlv-07-256-g001.jpg,hlv-07-256-g001.jpg,PMC4593014_hlv-07-256-g001_undivided_1_1.webp,pathology,immunostaining
+PMC6466724,PMC6466724_01,Syphilis,train,PMC6466724_01_40794_2019_84_Fig2_HTML.jpg,40794_2019_84_Fig2_HTML.jpg,PMC6466724_40794_2019_84_Fig2_HTML_undivided_1_1.webp,pathology,giemsa
+PMC7192246,PMC7192246_01,Syphilis,train,PMC7192246_01_MBSEH-54-113-g001.jpg,MBSEH-54-113-g001.jpg,PMC7192246_MBSEH-54-113-g001_undivided_1_1.webp,radiology,x_ray
+PMC7423214,PMC7423214_02,Syphilis,train,PMC7423214_02_CCID-13-529-g0005.jpg,CCID-13-529-g0005.jpg,PMC7423214_CCID-13-529-g0005_undivided_1_1.webp,pathology,h&e
+PMC5791489,PMC5791489_01,Tuberculosis,test,PMC5791489_01_ACA-21-57-g001.jpg,ACA-21-57-g001.jpg,PMC5791489_ACA-21-57-g001_undivided_1_1.webp,radiology,x_ray
+PMC4153132,PMC4153132_01,Tuberculosis,train,PMC4153132_01_Tanaffos-10-048-g002.jpg,Tanaffos-10-048-g002.jpg,PMC4153132_Tanaffos-10-048-g002_undivided_1_1.webp,radiology,x_ray
+PMC4153132,PMC4153132_01,Tuberculosis,train,PMC4153132_01_Tanaffos-10-048-g003.jpg,Tanaffos-10-048-g003.jpg,PMC4153132_Tanaffos-10-048-g003_undivided_1_1.webp,radiology,ct
+PMC4821134,PMC4821134_01,Herpes simplex,train,PMC4821134_01_IJO-64-98-g002.jpg,IJO-64-98-g002.jpg,PMC4821134_IJO-64-98-g002_undivided_1_1.webp,ophthalmic_imaging,ophthalmic_angiography
+PMC8043792,PMC8043792_01,Syphilis,train,PMC8043792_01_IMCRJ-14-229-g0001.jpg,IMCRJ-14-229-g0001.jpg,PMC8043792_IMCRJ-14-229-g0001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC6558859,PMC6558859_01,Herpes simplex,test,PMC6558859_01_41038_2019_153_Fig1_HTML.jpg,41038_2019_153_Fig1_HTML.jpg,PMC6558859_41038_2019_153_Fig1_HTML_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC6558859,PMC6558859_01,Herpes simplex,test,PMC6558859_01_41038_2019_153_Fig2_HTML.jpg,41038_2019_153_Fig2_HTML.jpg,PMC6558859_41038_2019_153_Fig2_HTML_undivided_1_1.webp,medical_photograph,oral_photograph
+PMC6558859,PMC6558859_01,Herpes simplex,test,PMC6558859_01_41038_2019_153_Fig3_HTML.jpg,41038_2019_153_Fig3_HTML.jpg,PMC6558859_41038_2019_153_Fig3_HTML_undivided_1_1.webp,pathology,h&e
+PMC10013424,PMC10013424_01,Syphilis,train,PMC10013424_01_ICRP_A_2185621_F0001_C.jpg,ICRP_A_2185621_F0001_C.jpg,PMC10013424_ICRP_A_2185621_F0001_C_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10013424,PMC10013424_01,Syphilis,train,PMC10013424_01_ICRP_A_2185621_F0003_C.jpg,ICRP_A_2185621_F0003_C.jpg,PMC10013424_ICRP_A_2185621_F0003_C_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10013424,PMC10013424_01,Syphilis,train,PMC10013424_01_ICRP_A_2185621_F0004_C.jpg,ICRP_A_2185621_F0004_C.jpg,PMC10013424_ICRP_A_2185621_F0004_C_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10013424,PMC10013424_01,Syphilis,train,PMC10013424_01_ICRP_A_2185621_F0005_C.jpg,ICRP_A_2185621_F0005_C.jpg,PMC10013424_ICRP_A_2185621_F0005_C_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3139286,PMC3139286_01,Syphilis,test,PMC3139286_01_IJSTD-32-34-g001.jpg,IJSTD-32-34-g001.jpg,PMC3139286_IJSTD-32-34-g001_undivided_1_1.webp,medical_photograph,oral_photograph
+PMC3730478,PMC3730478_01,Syphilis,train,PMC3730478_01_IJSTD-34-50-g001.jpg,IJSTD-34-50-g001.jpg,PMC3730478_IJSTD-34-50-g001_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC3730478,PMC3730478_01,Syphilis,train,PMC3730478_01_IJSTD-34-50-g002.jpg,IJSTD-34-50-g002.jpg,PMC3730478_IJSTD-34-50-g002_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3730478,PMC3730478_01,Syphilis,train,PMC3730478_01_IJSTD-34-50-g003.jpg,IJSTD-34-50-g003.jpg,PMC3730478_IJSTD-34-50-g003_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC3730478,PMC3730478_01,Syphilis,train,PMC3730478_01_IJSTD-34-50-g004.jpg,IJSTD-34-50-g004.jpg,PMC3730478_IJSTD-34-50-g004_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC5234201,PMC5234201_03,Tuberculosis,val,PMC5234201_03_LI-34-65-g005.jpg,LI-34-65-g005.jpg,PMC5234201_LI-34-65-g005_undivided_1_1.webp,radiology,x_ray
+PMC5234201,PMC5234201_03,Tuberculosis,val,PMC5234201_03_LI-34-65-g006.jpg,LI-34-65-g006.jpg,PMC5234201_LI-34-65-g006_undivided_1_1.webp,radiology,ultrasound
+PMC8093448,PMC8093448_01,Herpes simplex,train,PMC8093448_01_fped-09-565778-g0003.jpg,fped-09-565778-g0003.jpg,PMC8093448_fped-09-565778-g0003_undivided_1_1.webp,radiology,ct
+PMC5996088,PMC5996088_01,Aspergillosis,train,PMC5996088_01_fonc-08-00188-g003.jpg,fonc-08-00188-g003.jpg,PMC5996088_fonc-08-00188-g003_undivided_1_1.webp,radiology,mri
+PMC5996088,PMC5996088_01,Aspergillosis,train,PMC5996088_01_fonc-08-00188-g005.jpg,fonc-08-00188-g005.jpg,PMC5996088_fonc-08-00188-g005_undivided_1_1.webp,pathology,pas
+PMC5996088,PMC5996088_01,Aspergillosis,train,PMC5996088_01_fonc-08-00188-g006.jpg,fonc-08-00188-g006.jpg,PMC5996088_fonc-08-00188-g006_undivided_1_1.webp,pathology,h&e
+PMC4031206,PMC4031206_01,Aspergillosis,test,PMC4031206_01_jbm-5-055Fig1.jpg,jbm-5-055Fig1.jpg,PMC4031206_jbm-5-055Fig1_undivided_1_1.webp,radiology,ct
+PMC6211424,PMC6211424_01,Aspergillosis,train,PMC6211424_01_13223_2018_294_Fig2_HTML.jpg,13223_2018_294_Fig2_HTML.jpg,PMC6211424_13223_2018_294_Fig2_HTML_undivided_1_1.webp,pathology,immunostaining
+PMC4336666,PMC4336666_01,Herpes simplex,test,PMC4336666_01_JIOH-7-63-g001.jpg,JIOH-7-63-g001.jpg,PMC4336666_JIOH-7-63-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC5116640,PMC5116640_01,Herpes simplex,val,PMC5116640_01_fmed-03-00059-g001.jpg,fmed-03-00059-g001.jpg,PMC5116640_fmed-03-00059-g001_undivided_1_1.webp,radiology,ct
+PMC5116640,PMC5116640_01,Herpes simplex,val,PMC5116640_01_fmed-03-00059-g002.jpg,fmed-03-00059-g002.jpg,PMC5116640_fmed-03-00059-g002_undivided_1_1.webp,radiology,mri
+PMC6130086,PMC6130086_01,Aspergillosis,val,PMC6130086_01_40780_2018_118_Fig1_HTML.jpg,40780_2018_118_Fig1_HTML.jpg,PMC6130086_40780_2018_118_Fig1_HTML_undivided_1_1.webp,pathology,immunostaining
+PMC8077672,PMC8077672_01,Herpes simplex,train,PMC8077672_01_PAMJ-38-174-g002.jpg,PAMJ-38-174-g002.jpg,PMC8077672_PAMJ-38-174-g002_undivided_1_1.webp,pathology,immunostaining
+PMC3716239,PMC3716239_01,Tuberculosis,train,PMC3716239_01_NJS-18-22-g001.jpg,NJS-18-22-g001.jpg,PMC3716239_NJS-18-22-g001_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC3716239,PMC3716239_01,Tuberculosis,train,PMC3716239_01_NJS-18-22-g002.jpg,NJS-18-22-g002.jpg,PMC3716239_NJS-18-22-g002_undivided_1_1.webp,radiology,ct
+PMC7434372,PMC7434372_01,Herpes simplex,train,PMC7434372_01_IMCRJ-13-297-g0001.jpg,IMCRJ-13-297-g0001.jpg,PMC7434372_IMCRJ-13-297-g0001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC5340087,PMC5340087_01,Tuberculosis,train,PMC5340087_01_OC-07-06-g-002.jpg,OC-07-06-g-002.jpg,PMC5340087_OC-07-06-g-002_undivided_1_1.webp,ophthalmic_imaging,ophthalmic_angiography
+PMC5340087,PMC5340087_01,Tuberculosis,train,PMC5340087_01_OC-07-06-g-003.jpg,OC-07-06-g-003.jpg,PMC5340087_OC-07-06-g-003_undivided_1_1.webp,radiology,ultrasound
+PMC5340087,PMC5340087_01,Tuberculosis,train,PMC5340087_01_OC-07-06-g-005.jpg,OC-07-06-g-005.jpg,PMC5340087_OC-07-06-g-005_undivided_1_1.webp,pathology,h&e
+PMC5340087,PMC5340087_01,Tuberculosis,train,PMC5340087_01_OC-07-06-g-006.jpg,OC-07-06-g-006.jpg,PMC5340087_OC-07-06-g-006_undivided_1_1.webp,ophthalmic_imaging,fundus_photograph
+PMC5340087,PMC5340087_01,Tuberculosis,train,PMC5340087_01_OC-07-06-g-007.jpg,OC-07-06-g-007.jpg,PMC5340087_OC-07-06-g-007_undivided_1_1.webp,ophthalmic_imaging,fundus_photograph
+PMC5340087,PMC5340087_01,Tuberculosis,train,PMC5340087_01_OC-07-06-g-009.jpg,OC-07-06-g-009.jpg,PMC5340087_OC-07-06-g-009_undivided_1_1.webp,ophthalmic_imaging,oct
+PMC8627143,PMC8627143_01,Syphilis,train,PMC8627143_01_PAMJ-40-119-g002.jpg,PAMJ-40-119-g002.jpg,PMC8627143_PAMJ-40-119-g002_undivided_1_1.webp,radiology,x_ray
+PMC4608167,PMC4608167_01,Tuberculosis,val,PMC4608167_01_autopsy-05-01039-g01.jpg,autopsy-05-01039-g01.jpg,PMC4608167_autopsy-05-01039-g01_undivided_1_1.webp,radiology,ct
+PMC5710053,PMC5710053_01,Herpes simplex,train,PMC5710053_01_RomJOphthalmol-61-49-g005.jpg,RomJOphthalmol-61-49-g005.jpg,PMC5710053_RomJOphthalmol-61-49-g005_undivided_1_1.webp,ophthalmic_imaging,fundus_photograph
+PMC3914384,PMC3914384_01,Aspergillosis,train,PMC3914384_01_1824-7288-40-2-1.jpg,1824-7288-40-2-1.jpg,PMC3914384_1824-7288-40-2-1_undivided_1_1.webp,radiology,ct
+PMC3914384,PMC3914384_01,Aspergillosis,train,PMC3914384_01_1824-7288-40-2-2.jpg,1824-7288-40-2-2.jpg,PMC3914384_1824-7288-40-2-2_undivided_1_1.webp,pathology,pas
+PMC3914384,PMC3914384_01,Aspergillosis,train,PMC3914384_01_1824-7288-40-2-3.jpg,1824-7288-40-2-3.jpg,PMC3914384_1824-7288-40-2-3_undivided_1_1.webp,radiology,ct
+PMC4817203,PMC4817203_01,Syphilis,train,PMC4817203_01_cvja-27-50-g001.jpg,cvja-27-50-g001.jpg,PMC4817203_cvja-27-50-g001_undivided_1_1.webp,radiology,x_ray
+PMC4817203,PMC4817203_01,Syphilis,train,PMC4817203_01_cvja-27-50-g002.jpg,cvja-27-50-g002.jpg,PMC4817203_cvja-27-50-g002_undivided_1_1.webp,radiology,ct
+PMC4817203,PMC4817203_01,Syphilis,train,PMC4817203_01_cvja-27-50-g003.jpg,cvja-27-50-g003.jpg,PMC4817203_cvja-27-50-g003_undivided_1_1.webp,radiology,ct
+PMC4817203,PMC4817203_01,Syphilis,train,PMC4817203_01_cvja-27-50-g004.jpg,cvja-27-50-g004.jpg,PMC4817203_cvja-27-50-g004_undivided_1_1.webp,pathology,h&e
+PMC4817203,PMC4817203_01,Syphilis,train,PMC4817203_01_cvja-27-51-g006.jpg,cvja-27-51-g006.jpg,PMC4817203_cvja-27-51-g006_undivided_1_1.webp,pathology,h&e
+PMC3204653,PMC3204653_01,Herpes simplex,train,PMC3204653_01_10-1358-F2.jpg,10-1358-F2.jpg,PMC3204653_10-1358-F2_undivided_1_1.webp,pathology,methylene_blue
+PMC6317617,PMC6317617_01,Herpes simplex,train,PMC6317617_01_abc-112-01-0110-g01.jpg,abc-112-01-0110-g01.jpg,PMC6317617_abc-112-01-0110-g01_undivided_1_1.webp,radiology,ct
+PMC6317617,PMC6317617_01,Herpes simplex,train,PMC6317617_01_abc-112-01-0110-g02.jpg,abc-112-01-0110-g02.jpg,PMC6317617_abc-112-01-0110-g02_undivided_1_1.webp,radiology,ct
+PMC8645498,PMC8645498_01,Herpes simplex,val,PMC8645498_01_SNI-12-562-g002.jpg,SNI-12-562-g002.jpg,PMC8645498_SNI-12-562-g002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC5998279,PMC5998279_01,Syphilis,train,PMC5998279_01_ZJCH_A_1481326_F0001_PB.jpg,ZJCH_A_1481326_F0001_PB.jpg,PMC5998279_ZJCH_A_1481326_F0001_PB_undivided_1_1.webp,radiology,ct
+PMC5998279,PMC5998279_01,Syphilis,train,PMC5998279_01_ZJCH_A_1481326_F0002_PB.jpg,ZJCH_A_1481326_F0002_PB.jpg,PMC5998279_ZJCH_A_1481326_F0002_PB_undivided_1_1.webp,pathology,h&e
+PMC6757013,PMC6757013_01,Syphilis,val,PMC6757013_01_jbjiv04p0189g001.jpg,jbjiv04p0189g001.jpg,PMC6757013_jbjiv04p0189g001_undivided_1_1.webp,radiology,x_ray
+PMC5463668,PMC5463668_01,Aspergillosis,test,PMC5463668_01_zjch_a_1287840_f0001_oc.jpg,zjch_a_1287840_f0001_oc.jpg,PMC5463668_zjch_a_1287840_f0001_oc_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC5463668,PMC5463668_01,Aspergillosis,test,PMC5463668_01_zjch_a_1287840_f0002_oc.jpg,zjch_a_1287840_f0002_oc.jpg,PMC5463668_zjch_a_1287840_f0002_oc_undivided_1_1.webp,pathology,h&e
+PMC4381659,PMC4381659_01,Aspergillosis,train,PMC4381659_01_GMS-13-03-g-001.jpg,GMS-13-03-g-001.jpg,PMC4381659_GMS-13-03-g-001_undivided_1_1.webp,radiology,ct
+PMC3161238,PMC3161238_01,Syphilis,train,PMC3161238_01_cln-66-08-1505-g001.jpg,cln-66-08-1505-g001.jpg,PMC3161238_cln-66-08-1505-g001_undivided_1_1.webp,radiology,mri
+PMC3161238,PMC3161238_01,Syphilis,train,PMC3161238_01_cln-66-08-1505-g002.jpg,cln-66-08-1505-g002.jpg,PMC3161238_cln-66-08-1505-g002_undivided_1_1.webp,radiology,spect
+PMC4532053,PMC4532053_01,Tuberculosis,train,PMC4532053_01_kjim-9-1-51-10f1.jpg,kjim-9-1-51-10f1.jpg,PMC4532053_kjim-9-1-51-10f1_undivided_1_1.webp,radiology,ultrasound
+PMC4532053,PMC4532053_01,Tuberculosis,train,PMC4532053_01_kjim-9-1-51-10f3.jpg,kjim-9-1-51-10f3.jpg,PMC4532053_kjim-9-1-51-10f3_undivided_1_1.webp,pathology,methylene_blue
+PMC4532053,PMC4532053_01,Tuberculosis,train,PMC4532053_01_kjim-9-1-51-10f4.jpg,kjim-9-1-51-10f4.jpg,PMC4532053_kjim-9-1-51-10f4_undivided_1_1.webp,pathology,fish
+PMC4532053,PMC4532053_01,Tuberculosis,train,PMC4532053_01_kjim-9-1-51-10f5.jpg,kjim-9-1-51-10f5.jpg,PMC4532053_kjim-9-1-51-10f5_undivided_1_1.webp,pathology,h&e
+PMC4532053,PMC4532053_01,Tuberculosis,train,PMC4532053_01_kjim-9-1-51-10f6.jpg,kjim-9-1-51-10f6.jpg,PMC4532053_kjim-9-1-51-10f6_undivided_1_1.webp,pathology,h&e
+PMC4555910,PMC4555910_01,Syphilis,train,PMC4555910_01_IJSTD-36-89-g001.jpg,IJSTD-36-89-g001.jpg,PMC4555910_IJSTD-36-89-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC4555910,PMC4555910_01,Syphilis,train,PMC4555910_01_IJSTD-36-89-g002.jpg,IJSTD-36-89-g002.jpg,PMC4555910_IJSTD-36-89-g002_undivided_1_1.webp,medical_photograph,oral_photograph
+PMC8274706,PMC8274706_01,Tuberculosis,train,PMC8274706_01_RMHP-14-2825-g0004.jpg,RMHP-14-2825-g0004.jpg,PMC8274706_RMHP-14-2825-g0004_undivided_1_1.webp,radiology,ct
+PMC10086654,PMC10086654_01,Herpes simplex,test,PMC10086654_01_ABR-12-49-g001.jpg,ABR-12-49-g001.jpg,PMC10086654_ABR-12-49-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10086654,PMC10086654_01,Herpes simplex,test,PMC10086654_01_ABR-12-49-g002.jpg,ABR-12-49-g002.jpg,PMC10086654_ABR-12-49-g002_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC6726345,PMC6726345_01,Herpes simplex,train,PMC6726345_01_1077_Fig1.jpg,1077_Fig1.jpg,PMC6726345_1077_Fig1_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10166220,PMC10166220_01,Herpes simplex,val,PMC10166220_01_jchimp-13-02-018f1.jpg,jchimp-13-02-018f1.jpg,PMC10166220_jchimp-13-02-018f1_undivided_1_1.webp,radiology,ct
+PMC4697199,PMC4697199_01,Aspergillosis,train,PMC4697199_01_SNI-6-193-g001.jpg,SNI-6-193-g001.jpg,PMC4697199_SNI-6-193-g001_undivided_1_1.webp,radiology,mri
+PMC4697199,PMC4697199_01,Aspergillosis,train,PMC4697199_01_SNI-6-193-g002.jpg,SNI-6-193-g002.jpg,PMC4697199_SNI-6-193-g002_undivided_1_1.webp,radiology,ct
+PMC4697199,PMC4697199_01,Aspergillosis,train,PMC4697199_01_SNI-6-193-g003.jpg,SNI-6-193-g003.jpg,PMC4697199_SNI-6-193-g003_undivided_1_1.webp,pathology,immunostaining
+PMC3927190,PMC3927190_01,Syphilis,train,PMC3927190_01_IJN-24-38-g003.jpg,IJN-24-38-g003.jpg,PMC3927190_IJN-24-38-g003_undivided_1_1.webp,radiology,x_ray
+PMC3927190,PMC3927190_01,Syphilis,train,PMC3927190_01_IJN-24-38-g004.jpg,IJN-24-38-g004.jpg,PMC3927190_IJN-24-38-g004_undivided_1_1.webp,radiology,ct
+PMC3927190,PMC3927190_01,Syphilis,train,PMC3927190_01_IJN-24-38-g005.jpg,IJN-24-38-g005.jpg,PMC3927190_IJN-24-38-g005_undivided_1_1.webp,radiology,ct
+PMC7451148,PMC7451148_01,Aspergillosis,train,PMC7451148_01_SNI-11-211-g002.jpg,SNI-11-211-g002.jpg,PMC7451148_SNI-11-211-g002_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7451148,PMC7451148_01,Aspergillosis,train,PMC7451148_01_SNI-11-211-g003.jpg,SNI-11-211-g003.jpg,PMC7451148_SNI-11-211-g003_undivided_1_1.webp,radiology,ct
+PMC7451148,PMC7451148_01,Aspergillosis,train,PMC7451148_01_SNI-11-211-g004.jpg,SNI-11-211-g004.jpg,PMC7451148_SNI-11-211-g004_undivided_1_1.webp,radiology,ct
+PMC10074259,PMC10074259_01,Herpes simplex,train,PMC10074259_01_cop528894_f01.jpg,cop528894_f01.jpg,PMC10074259_cop528894_f01_undivided_1_1.webp,ophthalmic_imaging,slit_lamp_photograph
+PMC4532020,PMC4532020_01,Aspergillosis,train,PMC4532020_01_kjim-11-2-183-16f2.jpg,kjim-11-2-183-16f2.jpg,PMC4532020_kjim-11-2-183-16f2_undivided_1_1.webp,radiology,ct
+PMC4532020,PMC4532020_01,Aspergillosis,train,PMC4532020_01_kjim-11-2-183-16f3.jpg,kjim-11-2-183-16f3.jpg,PMC4532020_kjim-11-2-183-16f3_undivided_1_1.webp,pathology,fish
+PMC2828398,PMC2828398_06,Tuberculosis,val,PMC2828398_06_1758-2652-13-3-1.jpg,1758-2652-13-3-1.jpg,PMC2828398_1758-2652-13-3-1_undivided_1_1.webp,pathology,immunostaining
+PMC2828398,PMC2828398_06,Tuberculosis,val,PMC2828398_06_1758-2652-13-3-2.jpg,1758-2652-13-3-2.jpg,PMC2828398_1758-2652-13-3-2_undivided_1_1.webp,pathology,immunostaining
+PMC2828398,PMC2828398_06,Tuberculosis,val,PMC2828398_06_1758-2652-13-3-3.jpg,1758-2652-13-3-3.jpg,PMC2828398_1758-2652-13-3-3_undivided_1_1.webp,pathology,immunostaining
+PMC4395955,PMC4395955_02,Tuberculosis,train,PMC4395955_02_JPN-10-73-g002.jpg,JPN-10-73-g002.jpg,PMC4395955_JPN-10-73-g002_undivided_1_1.webp,pathology,acid_fast
+PMC8565698,PMC8565698_01,Aspergillosis,train,PMC8565698_01_acc-07-03-46-g001.jpg,acc-07-03-46-g001.jpg,PMC8565698_acc-07-03-46-g001_undivided_1_1.webp,radiology,ct
+PMC8565698,PMC8565698_01,Aspergillosis,train,PMC8565698_01_acc-07-03-46-g002.jpg,acc-07-03-46-g002.jpg,PMC8565698_acc-07-03-46-g002_undivided_1_1.webp,radiology,ct
+PMC5958587,PMC5958587_01,Tuberculosis,train,PMC5958587_01_JFMPC-7-271-g001.jpg,JFMPC-7-271-g001.jpg,PMC5958587_JFMPC-7-271-g001_undivided_1_1.webp,radiology,ct
+PMC5958587,PMC5958587_01,Tuberculosis,train,PMC5958587_01_JFMPC-7-271-g002.jpg,JFMPC-7-271-g002.jpg,PMC5958587_JFMPC-7-271-g002_undivided_1_1.webp,radiology,ct
+PMC5958587,PMC5958587_01,Tuberculosis,train,PMC5958587_01_JFMPC-7-271-g003.jpg,JFMPC-7-271-g003.jpg,PMC5958587_JFMPC-7-271-g003_undivided_1_1.webp,radiology,ct
+PMC3889001,PMC3889001_01,Tuberculosis,val,PMC3889001_01_JSTCR-5-32-g001.jpg,JSTCR-5-32-g001.jpg,PMC3889001_JSTCR-5-32-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3889001,PMC3889001_01,Tuberculosis,val,PMC3889001_01_JSTCR-5-32-g002.jpg,JSTCR-5-32-g002.jpg,PMC3889001_JSTCR-5-32-g002_undivided_1_1.webp,pathology,h&e
+PMC3889001,PMC3889001_01,Tuberculosis,val,PMC3889001_01_JSTCR-5-32-g003.jpg,JSTCR-5-32-g003.jpg,PMC3889001_JSTCR-5-32-g003_undivided_1_1.webp,pathology,pas
+PMC3889001,PMC3889001_01,Tuberculosis,val,PMC3889001_01_JSTCR-5-32-g004.jpg,JSTCR-5-32-g004.jpg,PMC3889001_JSTCR-5-32-g004_undivided_1_1.webp,radiology,ct
+PMC3889001,PMC3889001_01,Tuberculosis,val,PMC3889001_01_JSTCR-5-32-g005.jpg,JSTCR-5-32-g005.jpg,PMC3889001_JSTCR-5-32-g005_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC3889001,PMC3889001_01,Tuberculosis,val,PMC3889001_01_JSTCR-5-32-g006.jpg,JSTCR-5-32-g006.jpg,PMC3889001_JSTCR-5-32-g006_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC5473079,PMC5473079_01,Syphilis,test,PMC5473079_01_SNI-8-97-g001.jpg,SNI-8-97-g001.jpg,PMC5473079_SNI-8-97-g001_undivided_1_1.webp,radiology,mri
+PMC5473079,PMC5473079_01,Syphilis,test,PMC5473079_01_SNI-8-97-g002.jpg,SNI-8-97-g002.jpg,PMC5473079_SNI-8-97-g002_undivided_1_1.webp,radiology,mri
+PMC3656671,PMC3656671_01,Aspergillosis,val,PMC3656671_01_crn-0005-0091-g01.jpg,crn-0005-0091-g01.jpg,PMC3656671_crn-0005-0091-g01_undivided_1_1.webp,radiology,mri
+PMC3656671,PMC3656671_01,Aspergillosis,val,PMC3656671_01_crn-0005-0091-g03.jpg,crn-0005-0091-g03.jpg,PMC3656671_crn-0005-0091-g03_undivided_1_1.webp,radiology,mri
+PMC3168039,PMC3168039_01,Syphilis,train,PMC3168039_01_IJSTD-30-40-g001.jpg,IJSTD-30-40-g001.jpg,PMC3168039_IJSTD-30-40-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3168039,PMC3168039_01,Syphilis,train,PMC3168039_01_IJSTD-30-40-g002.jpg,IJSTD-30-40-g002.jpg,PMC3168039_IJSTD-30-40-g002_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3168039,PMC3168039_01,Syphilis,train,PMC3168039_01_IJSTD-30-40-g003.jpg,IJSTD-30-40-g003.jpg,PMC3168039_IJSTD-30-40-g003_undivided_1_1.webp,pathology,h&e
+PMC3168039,PMC3168039_01,Syphilis,train,PMC3168039_01_IJSTD-30-40-g004.jpg,IJSTD-30-40-g004.jpg,PMC3168039_IJSTD-30-40-g004_undivided_1_1.webp,pathology,h&e
+PMC6380159,PMC6380159_02,Herpes simplex,train,PMC6380159_02_OJO-12-53-g001.jpg,OJO-12-53-g001.jpg,PMC6380159_OJO-12-53-g001_undivided_1_1.webp,ophthalmic_imaging,slit_lamp_photograph
+PMC5586909,PMC5586909_01,Syphilis,train,PMC5586909_01_mpp-0023-0475-g01.jpg,mpp-0023-0475-g01.jpg,PMC5586909_mpp-0023-0475-g01_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC5586909,PMC5586909_01,Syphilis,train,PMC5586909_01_mpp-0023-0475-g02.jpg,mpp-0023-0475-g02.jpg,PMC5586909_mpp-0023-0475-g02_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC5586909,PMC5586909_01,Syphilis,train,PMC5586909_01_mpp-0023-0475-g03.jpg,mpp-0023-0475-g03.jpg,PMC5586909_mpp-0023-0475-g03_undivided_1_1.webp,pathology,h&e
+PMC7908318,PMC7908318_01,Aspergillosis,val,PMC7908318_01_PAMJ-36-234-g001.jpg,PAMJ-36-234-g001.jpg,PMC7908318_PAMJ-36-234-g001_undivided_1_1.webp,radiology,ct
+PMC5712921,PMC5712921_01,Syphilis,train,PMC5712921_01_RomJOphthalmol-60-47-g001.jpg,RomJOphthalmol-60-47-g001.jpg,PMC5712921_RomJOphthalmol-60-47-g001_undivided_1_1.webp,ophthalmic_imaging,fundus_photograph
+PMC5712919,PMC5712919_01,Herpes simplex,train,PMC5712919_01_RomJOphthalmol-60-40-g001.jpg,RomJOphthalmol-60-40-g001.jpg,PMC5712919_RomJOphthalmol-60-40-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC7250194,PMC7250194_01,Aspergillosis,train,PMC7250194_01_PAMJ-35-79-g001.jpg,PAMJ-35-79-g001.jpg,PMC7250194_PAMJ-35-79-g001_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC7250194,PMC7250194_01,Aspergillosis,train,PMC7250194_01_PAMJ-35-79-g002.jpg,PAMJ-35-79-g002.jpg,PMC7250194_PAMJ-35-79-g002_undivided_1_1.webp,pathology,fish
+PMC7250194,PMC7250194_01,Aspergillosis,train,PMC7250194_01_PAMJ-35-79-g003.jpg,PAMJ-35-79-g003.jpg,PMC7250194_PAMJ-35-79-g003_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC2700580,PMC2700580_01,Tuberculosis,train,PMC2700580_01_JETS-02-48-g001.jpg,JETS-02-48-g001.jpg,PMC2700580_JETS-02-48-g001_undivided_1_1.webp,radiology,ct
+PMC2700580,PMC2700580_01,Tuberculosis,train,PMC2700580_01_JETS-02-48-g002.jpg,JETS-02-48-g002.jpg,PMC2700580_JETS-02-48-g002_undivided_1_1.webp,radiology,ct
+PMC5742205,PMC5742205_01,Herpes simplex,train,PMC5742205_01_fneur-08-00705-g002.jpg,fneur-08-00705-g002.jpg,PMC5742205_fneur-08-00705-g002_undivided_1_1.webp,pathology,h&e
+PMC5742205,PMC5742205_01,Herpes simplex,train,PMC5742205_01_fneur-08-00705-g003.jpg,fneur-08-00705-g003.jpg,PMC5742205_fneur-08-00705-g003_undivided_1_1.webp,pathology,h&e
+PMC5742205,PMC5742205_01,Herpes simplex,train,PMC5742205_01_fneur-08-00705-g004.jpg,fneur-08-00705-g004.jpg,PMC5742205_fneur-08-00705-g004_undivided_1_1.webp,pathology,h&e
+PMC10262133,PMC10262133_01,Tuberculosis,train,PMC10262133_01_43162_2023_225_Fig2_HTML.jpg,43162_2023_225_Fig2_HTML.jpg,PMC10262133_43162_2023_225_Fig2_HTML_undivided_1_1.webp,pathology,h&e
+PMC6848057,PMC6848057_01,Herpes simplex,train,PMC6848057_01_fneur-10-01086-g0005.jpg,fneur-10-01086-g0005.jpg,PMC6848057_fneur-10-01086-g0005_undivided_1_1.webp,pathology,immunostaining
+PMC3118057,PMC3118057_01,Tuberculosis,train,PMC3118057_01_JLP-3-43-g001.jpg,JLP-3-43-g001.jpg,PMC3118057_JLP-3-43-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3118057,PMC3118057_01,Tuberculosis,train,PMC3118057_01_JLP-3-43-g002.jpg,JLP-3-43-g002.jpg,PMC3118057_JLP-3-43-g002_undivided_1_1.webp,pathology,acid_fast
+PMC6332770,PMC6332770_01,Herpes simplex,train,PMC6332770_01_CCR3-7-11-g001.jpg,CCR3-7-11-g001.jpg,PMC6332770_CCR3-7-11-g001_undivided_1_1.webp,radiology,ct
+PMC6332770,PMC6332770_01,Herpes simplex,train,PMC6332770_01_CCR3-7-11-g002.jpg,CCR3-7-11-g002.jpg,PMC6332770_CCR3-7-11-g002_undivided_1_1.webp,pathology,h&e
+PMC6332770,PMC6332770_01,Herpes simplex,train,PMC6332770_01_CCR3-7-11-g003.jpg,CCR3-7-11-g003.jpg,PMC6332770_CCR3-7-11-g003_undivided_1_1.webp,pathology,h&e
+PMC6429999,PMC6429999_01,Herpes simplex,train,PMC6429999_01_imcrj-12-071Fig2.jpg,imcrj-12-071Fig2.jpg,PMC6429999_imcrj-12-071Fig2_undivided_1_1.webp,pathology,h&e
+PMC2637836,PMC2637836_01,Tuberculosis,test,PMC2637836_01_1757-1626-2-37-4.jpg,1757-1626-2-37-4.jpg,PMC2637836_1757-1626-2-37-4_undivided_1_1.webp,pathology,h&e
+PMC4531549,PMC4531549_01,Tuberculosis,train,PMC4531549_01_kjim-19-1-70-14f1.jpg,kjim-19-1-70-14f1.jpg,PMC4531549_kjim-19-1-70-14f1_undivided_1_1.webp,radiology,ct
+PMC4531549,PMC4531549_01,Tuberculosis,train,PMC4531549_01_kjim-19-1-70-14f2.jpg,kjim-19-1-70-14f2.jpg,PMC4531549_kjim-19-1-70-14f2_undivided_1_1.webp,pathology,h&e
+PMC4531549,PMC4531549_01,Tuberculosis,train,PMC4531549_01_kjim-19-1-70-14f3.jpg,kjim-19-1-70-14f3.jpg,PMC4531549_kjim-19-1-70-14f3_undivided_1_1.webp,pathology,giemsa
+PMC6817676,PMC6817676_01,Syphilis,val,PMC6817676_01_fneur-10-01102-g0003.jpg,fneur-10-01102-g0003.jpg,PMC6817676_fneur-10-01102-g0003_undivided_1_1.webp,radiology,ct
+PMC6817676,PMC6817676_01,Syphilis,val,PMC6817676_01_fneur-10-01102-g0005.jpg,fneur-10-01102-g0005.jpg,PMC6817676_fneur-10-01102-g0005_undivided_1_1.webp,pathology,h&e
+PMC3937491,PMC3937491_01,Syphilis,train,PMC3937491_01_IDOJ-5-59-g001.jpg,IDOJ-5-59-g001.jpg,PMC3937491_IDOJ-5-59-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3937491,PMC3937491_01,Syphilis,train,PMC3937491_01_IDOJ-5-59-g002.jpg,IDOJ-5-59-g002.jpg,PMC3937491_IDOJ-5-59-g002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC3937491,PMC3937491_01,Syphilis,train,PMC3937491_01_IDOJ-5-59-g005.jpg,IDOJ-5-59-g005.jpg,PMC3937491_IDOJ-5-59-g005_undivided_1_1.webp,pathology,acid_fast
+PMC3937491,PMC3937491_01,Syphilis,train,PMC3937491_01_IDOJ-5-59-g006.jpg,IDOJ-5-59-g006.jpg,PMC3937491_IDOJ-5-59-g006_undivided_1_1.webp,medical_photograph,oral_photograph
+PMC4374287,PMC4374287_01,Aspergillosis,train,PMC4374287_01_40248_2015_9_Fig1_HTML.jpg,40248_2015_9_Fig1_HTML.jpg,PMC4374287_40248_2015_9_Fig1_HTML_undivided_1_1.webp,radiology,x_ray
+PMC4374287,PMC4374287_01,Aspergillosis,train,PMC4374287_01_40248_2015_9_Fig2_HTML.jpg,40248_2015_9_Fig2_HTML.jpg,PMC4374287_40248_2015_9_Fig2_HTML_undivided_1_1.webp,radiology,ct
+PMC4374287,PMC4374287_01,Aspergillosis,train,PMC4374287_01_40248_2015_9_Fig3_HTML.jpg,40248_2015_9_Fig3_HTML.jpg,PMC4374287_40248_2015_9_Fig3_HTML_undivided_1_1.webp,radiology,ct
+PMC5726668,PMC5726668_01,Syphilis,val,PMC5726668_01_abd-92-05-s1-0024-g01.jpg,abd-92-05-s1-0024-g01.jpg,PMC5726668_abd-92-05-s1-0024-g01_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC4655780,PMC4655780_01,Aspergillosis,train,PMC4655780_01_OpenVetJ-2-19-g001.jpg,OpenVetJ-2-19-g001.jpg,PMC4655780_OpenVetJ-2-19-g001_undivided_1_1.webp,radiology,x_ray
+PMC4655780,PMC4655780_01,Aspergillosis,train,PMC4655780_01_OpenVetJ-2-19-g002.jpg,OpenVetJ-2-19-g002.jpg,PMC4655780_OpenVetJ-2-19-g002_undivided_1_1.webp,pathology,h&e
+PMC4655780,PMC4655780_01,Aspergillosis,train,PMC4655780_01_OpenVetJ-2-19-g003.jpg,OpenVetJ-2-19-g003.jpg,PMC4655780_OpenVetJ-2-19-g003_undivided_1_1.webp,pathology,pas
+PMC4066597,PMC4066597_01,Syphilis,train,PMC4066597_01_IJSTD-35-43-g001.jpg,IJSTD-35-43-g001.jpg,PMC4066597_IJSTD-35-43-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3950440,PMC3950440_01,Syphilis,train,PMC3950440_01_SJA-8-134-g003.jpg,SJA-8-134-g003.jpg,PMC3950440_SJA-8-134-g003_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3461402,PMC3461402_01,Herpes simplex,train,PMC3461402_01_fneur-03-00135-g001.jpg,fneur-03-00135-g001.jpg,PMC3461402_fneur-03-00135-g001_undivided_1_1.webp,radiology,ct
+PMC3461402,PMC3461402_01,Herpes simplex,train,PMC3461402_01_fneur-03-00135-g003.jpg,fneur-03-00135-g003.jpg,PMC3461402_fneur-03-00135-g003_undivided_1_1.webp,radiology,mri
+PMC7755351,PMC7755351_02,Herpes simplex,train,PMC7755351_02_PAMJ-37-129-g004.jpg,PAMJ-37-129-g004.jpg,PMC7755351_PAMJ-37-129-g004_undivided_1_1.webp,medical_photograph,oral_photograph
+PMC6560971,PMC6560971_02,Tuberculosis,val,PMC6560971_02_PAMJ-32-85-g004.jpg,PAMJ-32-85-g004.jpg,PMC6560971_PAMJ-32-85-g004_undivided_1_1.webp,radiology,mri
+PMC3139290,PMC3139290_01,Syphilis,train,PMC3139290_01_IJSTD-32-47-g001.jpg,IJSTD-32-47-g001.jpg,PMC3139290_IJSTD-32-47-g001_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3139290,PMC3139290_01,Syphilis,train,PMC3139290_01_IJSTD-32-47-g002.jpg,IJSTD-32-47-g002.jpg,PMC3139290_IJSTD-32-47-g002_undivided_1_1.webp,pathology,gram
+PMC6925563,PMC6925563_01,Tuberculosis,train,PMC6925563_01_CEJI-44-89612-g003.jpg,CEJI-44-89612-g003.jpg,PMC6925563_CEJI-44-89612-g003_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC10479603,PMC10479603_01,Herpes simplex,test,PMC10479603_01_fneph-03-1168614-g001.jpg,fneph-03-1168614-g001.jpg,PMC10479603_fneph-03-1168614-g001_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC3282934,PMC3282934_01,Syphilis,val,PMC3282934_01_PAMJ-10-09-g001.jpg,PAMJ-10-09-g001.jpg,PMC3282934_PAMJ-10-09-g001_undivided_1_1.webp,radiology,mri
+PMC3736875,PMC3736875_01,Aspergillosis,train,PMC3736875_01_mjhid-5-1-e2013048f1.jpg,mjhid-5-1-e2013048f1.jpg,PMC3736875_mjhid-5-1-e2013048f1_undivided_1_1.webp,radiology,ct
+PMC3736875,PMC3736875_01,Aspergillosis,train,PMC3736875_01_mjhid-5-1-e2013048f2.jpg,mjhid-5-1-e2013048f2.jpg,PMC3736875_mjhid-5-1-e2013048f2_undivided_1_1.webp,radiology,ct
+PMC3736875,PMC3736875_01,Aspergillosis,train,PMC3736875_01_mjhid-5-1-e2013048f3.jpg,mjhid-5-1-e2013048f3.jpg,PMC3736875_mjhid-5-1-e2013048f3_undivided_1_1.webp,radiology,ct
+PMC3736875,PMC3736875_01,Aspergillosis,train,PMC3736875_01_mjhid-5-1-e2013048f4.jpg,mjhid-5-1-e2013048f4.jpg,PMC3736875_mjhid-5-1-e2013048f4_undivided_1_1.webp,pathology,immunostaining
+PMC6369156,PMC6369156_01,Syphilis,val,PMC6369156_01_fmed-06-00012-g0001.jpg,fmed-06-00012-g0001.jpg,PMC6369156_fmed-06-00012-g0001_undivided_1_1.webp,radiology,x_ray
+PMC4395825,PMC4395825_01,Aspergillosis,val,PMC4395825_01_cro-0008-0169-g02.jpg,cro-0008-0169-g02.jpg,PMC4395825_cro-0008-0169-g02_undivided_1_1.webp,pathology,h&e
+PMC4078420,PMC4078420_01,Tuberculosis,train,PMC4078420_01_JCIS-4-26-g003.jpg,JCIS-4-26-g003.jpg,PMC4078420_JCIS-4-26-g003_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10422985,PMC10422985_01,Tuberculosis,train,PMC10422985_01_JIR-16-3319-g0001.jpg,JIR-16-3319-g0001.jpg,PMC10422985_JIR-16-3319-g0001_undivided_1_1.webp,radiology,x_ray
+PMC10422985,PMC10422985_01,Tuberculosis,train,PMC10422985_01_JIR-16-3319-g0002.jpg,JIR-16-3319-g0002.jpg,PMC10422985_JIR-16-3319-g0002_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC10422985,PMC10422985_01,Tuberculosis,train,PMC10422985_01_JIR-16-3319-g0003.jpg,JIR-16-3319-g0003.jpg,PMC10422985_JIR-16-3319-g0003_undivided_1_1.webp,pathology,h&e
+PMC10422985,PMC10422985_01,Tuberculosis,train,PMC10422985_01_JIR-16-3319-g0004.jpg,JIR-16-3319-g0004.jpg,PMC10422985_JIR-16-3319-g0004_undivided_1_1.webp,pathology,h&e
+PMC10422985,PMC10422985_01,Tuberculosis,train,PMC10422985_01_JIR-16-3319-g0005.jpg,JIR-16-3319-g0005.jpg,PMC10422985_JIR-16-3319-g0005_undivided_1_1.webp,radiology,mri
+PMC3340993,PMC3340993_01,Aspergillosis,train,PMC3340993_01_mjhid-4-1-e2012018f1.jpg,mjhid-4-1-e2012018f1.jpg,PMC3340993_mjhid-4-1-e2012018f1_undivided_1_1.webp,radiology,ultrasound
+PMC3340993,PMC3340993_01,Aspergillosis,train,PMC3340993_01_mjhid-4-1-e2012018f2.jpg,mjhid-4-1-e2012018f2.jpg,PMC3340993_mjhid-4-1-e2012018f2_undivided_1_1.webp,radiology,ultrasound
+PMC7069574,PMC7069574_01,Aspergillosis,train,PMC7069574_01_IMCRJ-13-77-g0003.jpg,IMCRJ-13-77-g0003.jpg,PMC7069574_IMCRJ-13-77-g0003_undivided_1_1.webp,radiology,ct
+PMC8339249,PMC8339249_01,Aspergillosis,test,PMC8339249_01_gr1.jpg,gr1.jpg,PMC8339249_gr1_undivided_1_1.webp,radiology,x_ray
+PMC3020613,PMC3020613_01,Herpes simplex,train,PMC3020613_01_03-0096-F1.jpg,03-0096-F1.jpg,PMC3020613_03-0096-F1_undivided_1_1.webp,radiology,ct
+PMC9195108,PMC9195108_01,Herpes simplex,train,PMC9195108_01_jchimp-12-01-043f1.jpg,jchimp-12-01-043f1.jpg,PMC9195108_jchimp-12-01-043f1_undivided_1_1.webp,radiology,pet
+PMC6698641,PMC6698641_01,Tuberculosis,train,PMC6698641_01_gr2.jpg,gr2.jpg,PMC6698641_gr2_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC3514531,PMC3514531_01,Herpes simplex,train,PMC3514531_01_fneur-03-00170-g002.jpg,fneur-03-00170-g002.jpg,PMC3514531_fneur-03-00170-g002_undivided_1_1.webp,radiology,ct
+PMC3514531,PMC3514531_01,Herpes simplex,train,PMC3514531_01_fneur-03-00170-g003.jpg,fneur-03-00170-g003.jpg,PMC3514531_fneur-03-00170-g003_undivided_1_1.webp,radiology,mri
+PMC3514531,PMC3514531_01,Herpes simplex,train,PMC3514531_01_fneur-03-00170-g004.jpg,fneur-03-00170-g004.jpg,PMC3514531_fneur-03-00170-g004_undivided_1_1.webp,radiology,ct
+PMC4782537,PMC4782537_01,Herpes simplex,train,PMC4782537_01_AIAN-19-146-g001.jpg,AIAN-19-146-g001.jpg,PMC4782537_AIAN-19-146-g001_undivided_1_1.webp,radiology,mri
+PMC4129850,PMC4129850_01,Tuberculosis,train,PMC4129850_01_WJEM-4-235-g001.jpg,WJEM-4-235-g001.jpg,PMC4129850_WJEM-4-235-g001_undivided_1_1.webp,pathology,h&e
+PMC11235267,PMC11235267_01,Aspergillosis,test,PMC11235267_01_frtra-02-1238494-g002.jpg,frtra-02-1238494-g002.jpg,PMC11235267_frtra-02-1238494-g002_undivided_1_1.webp,radiology,ct
+PMC11102749,PMC11102749_01,Syphilis,train,PMC11102749_01_IDR-17-1919-g0001.jpg,IDR-17-1919-g0001.jpg,PMC11102749_IDR-17-1919-g0001_undivided_1_1.webp,ophthalmic_imaging,fundus_photograph
+PMC11102749,PMC11102749_01,Syphilis,train,PMC11102749_01_IDR-17-1919-g0007.jpg,IDR-17-1919-g0007.jpg,PMC11102749_IDR-17-1919-g0007_undivided_1_1.webp,pathology,immunostaining
+PMC10691805,PMC10691805_01,Tuberculosis,train,PMC10691805_01_1678-9946-rimtsp-65-S1678-9946202365057-gf03.jpg,1678-9946-rimtsp-65-S1678-9946202365057-gf03.jpg,PMC10691805_1678-9946-rimtsp-65-S1678-9946202365057-gf03_undivided_1_1.webp,radiology,ct
+PMC11016456,PMC11016456_01,Syphilis,train,PMC11016456_01_MFP-19-17-g1.jpg,MFP-19-17-g1.jpg,PMC11016456_MFP-19-17-g1_undivided_1_1.webp,pathology,fish
+PMC11016456,PMC11016456_01,Syphilis,train,PMC11016456_01_MFP-19-17-g2.jpg,MFP-19-17-g2.jpg,PMC11016456_MFP-19-17-g2_undivided_1_1.webp,pathology,fish
+PMC10712981,PMC10712981_01,Herpes simplex,train,PMC10712981_01_crg-2023-0017-0001-534818_F01.jpg,crg-2023-0017-0001-534818_F01.jpg,PMC10712981_crg-2023-0017-0001-534818_F01_undivided_1_1.webp,pathology,h&e
+PMC10593176,PMC10593176_01,Herpes simplex,train,PMC10593176_01_jchim-13-03-075f1.jpg,jchim-13-03-075f1.jpg,PMC10593176_jchim-13-03-075f1_undivided_1_1.webp,pathology,h&e
+PMC10811723,PMC10811723_01,Aspergillosis,test,PMC10811723_01_bjvm-46-e004723-g01.jpg,bjvm-46-e004723-g01.jpg,PMC10811723_bjvm-46-e004723-g01_undivided_1_1.webp,pathology,giemsa
+PMC10621037,PMC10621037_01,Tuberculosis,test,PMC10621037_01_fmed-10-1224179-g003.jpg,fmed-10-1224179-g003.jpg,PMC10621037_fmed-10-1224179-g003_undivided_1_1.webp,pathology,immunostaining
+PMC10621037,PMC10621037_01,Tuberculosis,test,PMC10621037_01_fmed-10-1224179-g004.jpg,fmed-10-1224179-g004.jpg,PMC10621037_fmed-10-1224179-g004_undivided_1_1.webp,radiology,mri
+PMC10621037,PMC10621037_01,Tuberculosis,test,PMC10621037_01_fmed-10-1224179-g005.jpg,fmed-10-1224179-g005.jpg,PMC10621037_fmed-10-1224179-g005_undivided_1_1.webp,radiology,mri
+PMC11268767,PMC11268767_01,Syphilis,test,PMC11268767_01_IDR-17-3153-g0002.jpg,IDR-17-3153-g0002.jpg,PMC11268767_IDR-17-3153-g0002_undivided_1_1.webp,pathology,h&e
+PMC11268767,PMC11268767_01,Syphilis,test,PMC11268767_01_IDR-17-3153-g0003.jpg,IDR-17-3153-g0003.jpg,PMC11268767_IDR-17-3153-g0003_undivided_1_1.webp,pathology,masson_trichrome
+PMC11378985,PMC11378985_01,Tuberculosis,train,PMC11378985_01_CCID-17-1975-g0002.jpg,CCID-17-1975-g0002.jpg,PMC11378985_CCID-17-1975-g0002_undivided_1_1.webp,radiology,ct
+PMC10867547,PMC10867547_01,Tuberculosis,train,PMC10867547_01_cureus-0016-00000052350-i01.jpg,cureus-0016-00000052350-i01.jpg,PMC10867547_cureus-0016-00000052350-i01_undivided_1_1.webp,radiology,x_ray
+PMC10867547,PMC10867547_01,Tuberculosis,train,PMC10867547_01_cureus-0016-00000052350-i02.jpg,cureus-0016-00000052350-i02.jpg,PMC10867547_cureus-0016-00000052350-i02_undivided_1_1.webp,radiology,x_ray
+PMC10867547,PMC10867547_01,Tuberculosis,train,PMC10867547_01_cureus-0016-00000052350-i04.jpg,cureus-0016-00000052350-i04.jpg,PMC10867547_cureus-0016-00000052350-i04_undivided_1_1.webp,pathology,pas
+PMC10896460,PMC10896460_01,Tuberculosis,train,PMC10896460_01_cureus-0016-00000053035-i01.jpg,cureus-0016-00000053035-i01.jpg,PMC10896460_cureus-0016-00000053035-i01_undivided_1_1.webp,radiology,x_ray
+PMC10896460,PMC10896460_01,Tuberculosis,train,PMC10896460_01_cureus-0016-00000053035-i02.jpg,cureus-0016-00000053035-i02.jpg,PMC10896460_cureus-0016-00000053035-i02_undivided_1_1.webp,radiology,ct
+PMC10896460,PMC10896460_01,Tuberculosis,train,PMC10896460_01_cureus-0016-00000053035-i03.jpg,cureus-0016-00000053035-i03.jpg,PMC10896460_cureus-0016-00000053035-i03_undivided_1_1.webp,pathology,gram
+PMC10896460,PMC10896460_01,Tuberculosis,train,PMC10896460_01_cureus-0016-00000053035-i04.jpg,cureus-0016-00000053035-i04.jpg,PMC10896460_cureus-0016-00000053035-i04_undivided_1_1.webp,pathology,acid_fast
+PMC10859727,PMC10859727_01,Herpes simplex,train,PMC10859727_01_cureus-0016-00000052211-i01.jpg,cureus-0016-00000052211-i01.jpg,PMC10859727_cureus-0016-00000052211-i01_undivided_1_1.webp,radiology,mri
+PMC10859727,PMC10859727_01,Herpes simplex,train,PMC10859727_01_cureus-0016-00000052211-i02.jpg,cureus-0016-00000052211-i02.jpg,PMC10859727_cureus-0016-00000052211-i02_undivided_1_1.webp,radiology,mri
+PMC10859727,PMC10859727_01,Herpes simplex,train,PMC10859727_01_cureus-0016-00000052211-i03.jpg,cureus-0016-00000052211-i03.jpg,PMC10859727_cureus-0016-00000052211-i03_undivided_1_1.webp,radiology,mri
+PMC10884724,PMC10884724_01,Herpes simplex,train,PMC10884724_01_cureus-0016-00000052869-i01.jpg,cureus-0016-00000052869-i01.jpg,PMC10884724_cureus-0016-00000052869-i01_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10884724,PMC10884724_01,Herpes simplex,train,PMC10884724_01_cureus-0016-00000052869-i02.jpg,cureus-0016-00000052869-i02.jpg,PMC10884724_cureus-0016-00000052869-i02_undivided_1_1.webp,pathology,giemsa
+PMC10834030,PMC10834030_01,Herpes simplex,train,PMC10834030_01_cureus-0016-00000051534-i01.jpg,cureus-0016-00000051534-i01.jpg,PMC10834030_cureus-0016-00000051534-i01_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10944945,PMC10944945_01,Aspergillosis,train,PMC10944945_01_fmed-11-1365096-g002.jpg,fmed-11-1365096-g002.jpg,PMC10944945_fmed-11-1365096-g002_undivided_1_1.webp,radiology,ct
+PMC10831919,PMC10831919_01,Syphilis,train,PMC10831919_01_cureus-0016-00000051506-i01.jpg,cureus-0016-00000051506-i01.jpg,PMC10831919_cureus-0016-00000051506-i01_undivided_1_1.webp,radiology,ct
+PMC11349654,PMC11349654_01,Syphilis,train,PMC11349654_01_fnins-18-1442176-g004.jpg,fnins-18-1442176-g004.jpg,PMC11349654_fnins-18-1442176-g004_undivided_1_1.webp,pathology,h&e
+PMC10525325,PMC10525325_01,Herpes simplex,train,PMC10525325_01_fcvm-10-1259548-g002.jpg,fcvm-10-1259548-g002.jpg,PMC10525325_fcvm-10-1259548-g002_undivided_1_1.webp,radiology,ct
+PMC10525325,PMC10525325_01,Herpes simplex,train,PMC10525325_01_fcvm-10-1259548-g004.jpg,fcvm-10-1259548-g004.jpg,PMC10525325_fcvm-10-1259548-g004_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10543906,PMC10543906_01,Tuberculosis,train,PMC10543906_01_PAMJ-45-130-g001.jpg,PAMJ-45-130-g001.jpg,PMC10543906_PAMJ-45-130-g001_undivided_1_1.webp,pathology,h&e
+PMC10766069,PMC10766069_01,Tuberculosis,test,PMC10766069_01_ytad630f3.jpg,ytad630f3.jpg,PMC10766069_ytad630f3_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10766069,PMC10766069_01,Tuberculosis,test,PMC10766069_01_ytad630f4.jpg,ytad630f4.jpg,PMC10766069_ytad630f4_undivided_1_1.webp,pathology,giemsa
+PMC10904938,PMC10904938_02,Aspergillosis,train,PMC10904938_02_f1000research-12-145643-g0001.jpg,f1000research-12-145643-g0001.jpg,PMC10904938_f1000research-12-145643-g0001_undivided_1_1.webp,pathology,immunostaining
+PMC10919296,PMC10919296_01,Tuberculosis,train,PMC10919296_01_ZECR_A_2325170_F0001_B.jpg,ZECR_A_2325170_F0001_B.jpg,PMC10919296_ZECR_A_2325170_F0001_B_undivided_1_1.webp,radiology,ct
+PMC10919296,PMC10919296_01,Tuberculosis,train,PMC10919296_01_ZECR_A_2325170_F0002_PB.jpg,ZECR_A_2325170_F0002_PB.jpg,PMC10919296_ZECR_A_2325170_F0002_PB_undivided_1_1.webp,pathology,gram
+PMC10930033,PMC10930033_01,Tuberculosis,train,PMC10930033_01_fmed-11-1329381-g001.jpg,fmed-11-1329381-g001.jpg,PMC10930033_fmed-11-1329381-g001_undivided_1_1.webp,radiology,ct
+PMC10930033,PMC10930033_01,Tuberculosis,train,PMC10930033_01_fmed-11-1329381-g004.jpg,fmed-11-1329381-g004.jpg,PMC10930033_fmed-11-1329381-g004_undivided_1_1.webp,radiology,ct
+PMC10930033,PMC10930033_01,Tuberculosis,train,PMC10930033_01_fmed-11-1329381-g005.jpg,fmed-11-1329381-g005.jpg,PMC10930033_fmed-11-1329381-g005_undivided_1_1.webp,radiology,ct
+PMC11259477,PMC11259477_01,Aspergillosis,train,PMC11259477_01_jchim-14-03-060f1.jpg,jchim-14-03-060f1.jpg,PMC11259477_jchim-14-03-060f1_undivided_1_1.webp,radiology,ct
+PMC11259477,PMC11259477_01,Aspergillosis,train,PMC11259477_01_jchim-14-03-060f2.jpg,jchim-14-03-060f2.jpg,PMC11259477_jchim-14-03-060f2_undivided_1_1.webp,pathology,h&e
+PMC10900284,PMC10900284_02,Syphilis,val,PMC10900284_02_cureus-0016-00000053149-i03.jpg,cureus-0016-00000053149-i03.jpg,PMC10900284_cureus-0016-00000053149-i03_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10900284,PMC10900284_02,Syphilis,val,PMC10900284_02_cureus-0016-00000053149-i04.jpg,cureus-0016-00000053149-i04.jpg,PMC10900284_cureus-0016-00000053149-i04_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10900284,PMC10900284_02,Syphilis,val,PMC10900284_02_cureus-0016-00000053149-i06.jpg,cureus-0016-00000053149-i06.jpg,PMC10900284_cureus-0016-00000053149-i06_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC11249769,PMC11249769_01,Syphilis,val,PMC11249769_01_crn-2024-0016-0001-539741_F01.jpg,crn-2024-0016-0001-539741_F01.jpg,PMC11249769_crn-2024-0016-0001-539741_F01_undivided_1_1.webp,radiology,ct
+PMC11249769,PMC11249769_01,Syphilis,val,PMC11249769_01_crn-2024-0016-0001-539741_F02.jpg,crn-2024-0016-0001-539741_F02.jpg,PMC11249769_crn-2024-0016-0001-539741_F02_undivided_1_1.webp,radiology,mri
+PMC11249769,PMC11249769_01,Syphilis,val,PMC11249769_01_crn-2024-0016-0001-539741_F03.jpg,crn-2024-0016-0001-539741_F03.jpg,PMC11249769_crn-2024-0016-0001-539741_F03_undivided_1_1.webp,radiology,ct
+PMC11249769,PMC11249769_01,Syphilis,val,PMC11249769_01_crn-2024-0016-0001-539741_F04.jpg,crn-2024-0016-0001-539741_F04.jpg,PMC11249769_crn-2024-0016-0001-539741_F04_undivided_1_1.webp,radiology,mri
+PMC10949168,PMC10949168_01,Tuberculosis,train,PMC10949168_01_CCID-17-637-g0003.jpg,CCID-17-637-g0003.jpg,PMC10949168_CCID-17-637-g0003_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10641497,PMC10641497_01,Syphilis,train,PMC10641497_01_fped-11-1233334-g004.jpg,fped-11-1233334-g004.jpg,PMC10641497_fped-11-1233334-g004_undivided_1_1.webp,radiology,mri
+PMC10589006,PMC10589006_01,Tuberculosis,val,PMC10589006_01_jchim-13-04-084f1.jpg,jchim-13-04-084f1.jpg,PMC10589006_jchim-13-04-084f1_undivided_1_1.webp,radiology,ct
+PMC10589006,PMC10589006_01,Tuberculosis,val,PMC10589006_01_jchim-13-04-084f2.jpg,jchim-13-04-084f2.jpg,PMC10589006_jchim-13-04-084f2_undivided_1_1.webp,radiology,mri
+PMC10900178,PMC10900178_01,Syphilis,train,PMC10900178_01_cureus-0016-00000053160-i01.jpg,cureus-0016-00000053160-i01.jpg,PMC10900178_cureus-0016-00000053160-i01_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10900178,PMC10900178_01,Syphilis,train,PMC10900178_01_cureus-0016-00000053160-i02.jpg,cureus-0016-00000053160-i02.jpg,PMC10900178_cureus-0016-00000053160-i02_undivided_1_1.webp,pathology,immunostaining
+PMC11343495,PMC11343495_01,Tuberculosis,train,PMC11343495_01_PAMJ-48-13-g003.jpg,PAMJ-48-13-g003.jpg,PMC11343495_PAMJ-48-13-g003_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC11343495,PMC11343495_01,Tuberculosis,train,PMC11343495_01_PAMJ-48-13-g005.jpg,PAMJ-48-13-g005.jpg,PMC11343495_PAMJ-48-13-g005_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10515656,PMC10515656_01,Aspergillosis,train,PMC10515656_01_ICRP_A_2259468_F0001_C.jpg,ICRP_A_2259468_F0001_C.jpg,PMC10515656_ICRP_A_2259468_F0001_C_undivided_1_1.webp,radiology,x_ray
+PMC10515656,PMC10515656_01,Aspergillosis,train,PMC10515656_01_ICRP_A_2259468_F0002_C.jpg,ICRP_A_2259468_F0002_C.jpg,PMC10515656_ICRP_A_2259468_F0002_C_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10911644,PMC10911644_01,Herpes simplex,train,PMC10911644_01_cmr-2024-0031-0001-535615_F02.jpg,cmr-2024-0031-0001-535615_F02.jpg,PMC10911644_cmr-2024-0031-0001-535615_F02_undivided_1_1.webp,radiology,mri
+PMC10726230,PMC10726230_02,Tuberculosis,train,PMC10726230_02_gr2.jpg,gr2.jpg,PMC10726230_gr2_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC10824519,PMC10824519_01,Herpes simplex,train,PMC10824519_01_crg-2024-0018-0001-536097_F03.jpg,crg-2024-0018-0001-536097_F03.jpg,PMC10824519_crg-2024-0018-0001-536097_F03_undivided_1_1.webp,pathology,immunostaining
+PMC10627065,PMC10627065_01,Syphilis,val,PMC10627065_01_CCID-16-3157-g0002.jpg,CCID-16-3157-g0002.jpg,PMC10627065_CCID-16-3157-g0002_undivided_1_1.webp,pathology,h&e
+PMC10588001,PMC10588001_01,Aspergillosis,train,PMC10588001_01_fped-11-1200215-g002.jpg,fped-11-1200215-g002.jpg,PMC10588001_fped-11-1200215-g002_undivided_1_1.webp,radiology,ct
+PMC10588001,PMC10588001_01,Aspergillosis,train,PMC10588001_01_fped-11-1200215-g003.jpg,fped-11-1200215-g003.jpg,PMC10588001_fped-11-1200215-g003_undivided_1_1.webp,radiology,ct
+PMC10588001,PMC10588001_01,Aspergillosis,train,PMC10588001_01_fped-11-1200215-g004.jpg,fped-11-1200215-g004.jpg,PMC10588001_fped-11-1200215-g004_undivided_1_1.webp,radiology,ct
+PMC11376222,PMC11376222_01,Tuberculosis,val,PMC11376222_01_acmi-6-00737-g001.jpg,acmi-6-00737-g001.jpg,PMC11376222_acmi-6-00737-g001_undivided_1_1.webp,endoscopy,other_endoscopy
+PMC11376222,PMC11376222_01,Tuberculosis,val,PMC11376222_01_acmi-6-00737-g002.jpg,acmi-6-00737-g002.jpg,PMC11376222_acmi-6-00737-g002_undivided_1_1.webp,pathology,h&e
+PMC11376222,PMC11376222_01,Tuberculosis,val,PMC11376222_01_acmi-6-00737-g003.jpg,acmi-6-00737-g003.jpg,PMC11376222_acmi-6-00737-g003_undivided_1_1.webp,pathology,acid_fast
+PMC10932511,PMC10932511_01,Herpes simplex,train,PMC10932511_01_jchim-14-01-066f1.jpg,jchim-14-01-066f1.jpg,PMC10932511_jchim-14-01-066f1_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10932511,PMC10932511_01,Herpes simplex,train,PMC10932511_01_jchim-14-01-066f2.jpg,jchim-14-01-066f2.jpg,PMC10932511_jchim-14-01-066f2_undivided_1_1.webp,pathology,h&e
+PMC10858374,PMC10858374_01,Herpes simplex,train,PMC10858374_01_cureus-0016-00000052075-i01.jpg,cureus-0016-00000052075-i01.jpg,PMC10858374_cureus-0016-00000052075-i01_undivided_1_1.webp,radiology,mri
+PMC10858374,PMC10858374_01,Herpes simplex,train,PMC10858374_01_cureus-0016-00000052075-i02.jpg,cureus-0016-00000052075-i02.jpg,PMC10858374_cureus-0016-00000052075-i02_undivided_1_1.webp,radiology,mri
+PMC10858374,PMC10858374_01,Herpes simplex,train,PMC10858374_01_cureus-0016-00000052075-i03.jpg,cureus-0016-00000052075-i03.jpg,PMC10858374_cureus-0016-00000052075-i03_undivided_1_1.webp,radiology,mri
+PMC10726560,PMC10726560_01,Syphilis,test,PMC10726560_01_OC-13-21-g-001.jpg,OC-13-21-g-001.jpg,PMC10726560_OC-13-21-g-001_undivided_1_1.webp,radiology,mri
+PMC10726560,PMC10726560_01,Syphilis,test,PMC10726560_01_OC-13-21-g-002.jpg,OC-13-21-g-002.jpg,PMC10726560_OC-13-21-g-002_undivided_1_1.webp,radiology,mri
+PMC10726560,PMC10726560_01,Syphilis,test,PMC10726560_01_OC-13-21-g-003.jpg,OC-13-21-g-003.jpg,PMC10726560_OC-13-21-g-003_undivided_1_1.webp,radiology,mri
+PMC10726560,PMC10726560_01,Syphilis,test,PMC10726560_01_OC-13-21-g-004.jpg,OC-13-21-g-004.jpg,PMC10726560_OC-13-21-g-004_undivided_1_1.webp,radiology,ct
+PMC10726560,PMC10726560_01,Syphilis,test,PMC10726560_01_OC-13-21-g-005.jpg,OC-13-21-g-005.jpg,PMC10726560_OC-13-21-g-005_undivided_1_1.webp,radiology,mri
+PMC10726560,PMC10726560_01,Syphilis,test,PMC10726560_01_OC-13-21-g-006.jpg,OC-13-21-g-006.jpg,PMC10726560_OC-13-21-g-006_undivided_1_1.webp,radiology,mri
+PMC10864056,PMC10864056_01,Aspergillosis,test,PMC10864056_01_cureus-0016-00000052270-i01.jpg,cureus-0016-00000052270-i01.jpg,PMC10864056_cureus-0016-00000052270-i01_undivided_1_1.webp,pathology,h&e
+PMC10864056,PMC10864056_01,Aspergillosis,test,PMC10864056_01_cureus-0016-00000052270-i04.jpg,cureus-0016-00000052270-i04.jpg,PMC10864056_cureus-0016-00000052270-i04_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10793116,PMC10793116_01,Syphilis,train,PMC10793116_01_CCID-17-103-g0003.jpg,CCID-17-103-g0003.jpg,PMC10793116_CCID-17-103-g0003_undivided_1_1.webp,pathology,immunostaining
+PMC10793116,PMC10793116_01,Syphilis,train,PMC10793116_01_CCID-17-103-g0006.jpg,CCID-17-103-g0006.jpg,PMC10793116_CCID-17-103-g0006_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC10894019,PMC10894019_01,Tuberculosis,test,PMC10894019_01_cureus-0016-00000052884-i01.jpg,cureus-0016-00000052884-i01.jpg,PMC10894019_cureus-0016-00000052884-i01_undivided_1_1.webp,radiology,ct
+PMC10894019,PMC10894019_01,Tuberculosis,test,PMC10894019_01_cureus-0016-00000052884-i02.jpg,cureus-0016-00000052884-i02.jpg,PMC10894019_cureus-0016-00000052884-i02_undivided_1_1.webp,pathology,h&e
+PMC10894019,PMC10894019_01,Tuberculosis,test,PMC10894019_01_cureus-0016-00000052884-i03.jpg,cureus-0016-00000052884-i03.jpg,PMC10894019_cureus-0016-00000052884-i03_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC10902430,PMC10902430_01,Herpes simplex,test,PMC10902430_01_fonc-14-1332478-g003.jpg,fonc-14-1332478-g003.jpg,PMC10902430_fonc-14-1332478-g003_undivided_1_1.webp,pathology,h&e
+PMC11298180,PMC11298180_01,Tuberculosis,test,PMC11298180_01_IMCRJ-17-725-g0003.jpg,IMCRJ-17-725-g0003.jpg,PMC11298180_IMCRJ-17-725-g0003_undivided_1_1.webp,radiology,ct
+PMC11811767,PMC11811767_01,Aspergillosis,train,PMC11811767_01_ytaf049f1.jpg,ytaf049f1.jpg,PMC11811767_ytaf049f1_undivided_1_1.webp,radiology,x_ray
+PMC11811767,PMC11811767_01,Aspergillosis,train,PMC11811767_01_ytaf049f2.jpg,ytaf049f2.jpg,PMC11811767_ytaf049f2_undivided_1_1.webp,radiology,ultrasound
+PMC11811767,PMC11811767_01,Aspergillosis,train,PMC11811767_01_ytaf049f4.jpg,ytaf049f4.jpg,PMC11811767_ytaf049f4_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC11761411,PMC11761411_01,Aspergillosis,test,PMC11761411_01_CCR3-13-e70068-g001.jpg,CCR3-13-e70068-g001.jpg,PMC11761411_CCR3-13-e70068-g001_undivided_1_1.webp,radiology,ct
+PMC11761411,PMC11761411_01,Aspergillosis,test,PMC11761411_01_CCR3-13-e70068-g002.jpg,CCR3-13-e70068-g002.jpg,PMC11761411_CCR3-13-e70068-g002_undivided_1_1.webp,radiology,ct
+PMC11723606,PMC11723606_01,Syphilis,train,PMC11723606_01_2175-8239-jbn-47-1-e20240104-gf01.jpg,2175-8239-jbn-47-1-e20240104-gf01.jpg,PMC11723606_2175-8239-jbn-47-1-e20240104-gf01_undivided_1_1.webp,pathology,methenamine_silver
+PMC11723606,PMC11723606_01,Syphilis,train,PMC11723606_01_2175-8239-jbn-47-1-e20240104-gf02.jpg,2175-8239-jbn-47-1-e20240104-gf02.jpg,PMC11723606_2175-8239-jbn-47-1-e20240104-gf02_undivided_1_1.webp,pathology,h&e
+PMC11734615,PMC11734615_01,Tuberculosis,train,PMC11734615_01_IMCRJ-18-67-g0002.jpg,IMCRJ-18-67-g0002.jpg,PMC11734615_IMCRJ-18-67-g0002_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC11750429,PMC11750429_01,Aspergillosis,train,PMC11750429_01_gr1.jpg,gr1.jpg,PMC11750429_gr1_undivided_1_1.webp,medical_photograph,oral_photograph
+PMC11765159,PMC11765159_01,Herpes simplex,val,PMC11765159_01_ijms-26-00513-g001.jpg,ijms-26-00513-g001.jpg,PMC11765159_ijms-26-00513-g001_undivided_1_1.webp,radiology,mri
+PMC11765159,PMC11765159_01,Herpes simplex,val,PMC11765159_01_ijms-26-00513-g003.jpg,ijms-26-00513-g003.jpg,PMC11765159_ijms-26-00513-g003_undivided_1_1.webp,radiology,ct
+PMC11765159,PMC11765159_01,Herpes simplex,val,PMC11765159_01_ijms-26-00513-g004.jpg,ijms-26-00513-g004.jpg,PMC11765159_ijms-26-00513-g004_undivided_1_1.webp,pathology,h&e
+PMC11830119,PMC11830119_01,Herpes simplex,train,PMC11830119_01_cureus-0017-00000077568-i02.jpg,cureus-0017-00000077568-i02.jpg,PMC11830119_cureus-0017-00000077568-i02_undivided_1_1.webp,radiology,mri
+PMC11830119,PMC11830119_01,Herpes simplex,train,PMC11830119_01_cureus-0017-00000077568-i05.jpg,cureus-0017-00000077568-i05.jpg,PMC11830119_cureus-0017-00000077568-i05_undivided_1_1.webp,radiology,mri
+PMC11753558,PMC11753558_01,Herpes simplex,val,PMC11753558_01_IDOJ-16-176-g002.jpg,IDOJ-16-176-g002.jpg,PMC11753558_IDOJ-16-176-g002_undivided_1_1.webp,pathology,h&e
+PMC11753558,PMC11753558_01,Herpes simplex,val,PMC11753558_01_IDOJ-16-176-g003.jpg,IDOJ-16-176-g003.jpg,PMC11753558_IDOJ-16-176-g003_undivided_1_1.webp,pathology,gram
+PMC11790467,PMC11790467_01,Tuberculosis,train,PMC11790467_01_RCR2-13-e70107-g003.jpg,RCR2-13-e70107-g003.jpg,PMC11790467_RCR2-13-e70107-g003_undivided_1_1.webp,pathology,fish
+PMC11806362,PMC11806362_01,Syphilis,train,PMC11806362_01_cureus-0017-00000077173-i01.jpg,cureus-0017-00000077173-i01.jpg,PMC11806362_cureus-0017-00000077173-i01_undivided_1_1.webp,radiology,ct
+PMC11806362,PMC11806362_01,Syphilis,train,PMC11806362_01_cureus-0017-00000077173-i02.jpg,cureus-0017-00000077173-i02.jpg,PMC11806362_cureus-0017-00000077173-i02_undivided_1_1.webp,radiology,ct
+PMC11806362,PMC11806362_01,Syphilis,train,PMC11806362_01_cureus-0017-00000077173-i03.jpg,cureus-0017-00000077173-i03.jpg,PMC11806362_cureus-0017-00000077173-i03_undivided_1_1.webp,radiology,ct
+PMC11806362,PMC11806362_01,Syphilis,train,PMC11806362_01_cureus-0017-00000077173-i06.jpg,cureus-0017-00000077173-i06.jpg,PMC11806362_cureus-0017-00000077173-i06_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC11829613,PMC11829613_01,Syphilis,train,PMC11829613_01_cureus-0017-00000077538-i02.jpg,cureus-0017-00000077538-i02.jpg,PMC11829613_cureus-0017-00000077538-i02_undivided_1_1.webp,radiology,ct
+PMC11829613,PMC11829613_01,Syphilis,train,PMC11829613_01_cureus-0017-00000077538-i03.jpg,cureus-0017-00000077538-i03.jpg,PMC11829613_cureus-0017-00000077538-i03_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC11808804,PMC11808804_01,Tuberculosis,test,PMC11808804_01_rjae424f2.jpg,rjae424f2.jpg,PMC11808804_rjae424f2_undivided_1_1.webp,radiology,x_ray
+PMC11808804,PMC11808804_01,Tuberculosis,test,PMC11808804_01_rjae424f3.jpg,rjae424f3.jpg,PMC11808804_rjae424f3_undivided_1_1.webp,radiology,ultrasound
+PMC11808804,PMC11808804_01,Tuberculosis,test,PMC11808804_01_rjae424f4.jpg,rjae424f4.jpg,PMC11808804_rjae424f4_undivided_1_1.webp,radiology,ultrasound
+PMC11808804,PMC11808804_01,Tuberculosis,test,PMC11808804_01_rjae424f5.jpg,rjae424f5.jpg,PMC11808804_rjae424f5_undivided_1_1.webp,radiology,ultrasound
+PMC11808804,PMC11808804_01,Tuberculosis,test,PMC11808804_01_rjae424f6.jpg,rjae424f6.jpg,PMC11808804_rjae424f6_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC11715506,PMC11715506_01,Tuberculosis,train,PMC11715506_01_13256_2024_5014_Fig1_HTML.jpg,13256_2024_5014_Fig1_HTML.jpg,PMC11715506_13256_2024_5014_Fig1_HTML_undivided_1_1.webp,radiology,ct
+PMC11715506,PMC11715506_01,Tuberculosis,train,PMC11715506_01_13256_2024_5014_Fig2_HTML.jpg,13256_2024_5014_Fig2_HTML.jpg,PMC11715506_13256_2024_5014_Fig2_HTML_undivided_1_1.webp,radiology,ct
+PMC11821450,PMC11821450_01,Aspergillosis,train,PMC11821450_01_CCR3-13-e70146-g003.jpg,CCR3-13-e70146-g003.jpg,PMC11821450_CCR3-13-e70146-g003_undivided_1_1.webp,radiology,ultrasound
+PMC11810145,PMC11810145_01,Herpes simplex,train,PMC11810145_01_cureus-0017-00000077293-i01.jpg,cureus-0017-00000077293-i01.jpg,PMC11810145_cureus-0017-00000077293-i01_undivided_1_1.webp,radiology,ct
+PMC11745221,PMC11745221_01,Syphilis,train,PMC11745221_01_gr3.jpg,gr3.jpg,PMC11745221_gr3_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC11810938,PMC11810938_01,Herpes simplex,test,PMC11810938_01_fimmu-15-1507494-g003.jpg,fimmu-15-1507494-g003.jpg,PMC11810938_fimmu-15-1507494-g003_undivided_1_1.webp,pathology,masson_trichrome
+PMC11753560,PMC11753560_01,Herpes simplex,train,PMC11753560_01_IDOJ-16-152-g002.jpg,IDOJ-16-152-g002.jpg,PMC11753560_IDOJ-16-152-g002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC11730819,PMC11730819_01,Tuberculosis,train,PMC11730819_01_medi-104-e40920-g001.jpg,medi-104-e40920-g001.jpg,PMC11730819_medi-104-e40920-g001_undivided_1_1.webp,radiology,pet
+PMC11730819,PMC11730819_01,Tuberculosis,train,PMC11730819_01_medi-104-e40920-g005.jpg,medi-104-e40920-g005.jpg,PMC11730819_medi-104-e40920-g005_undivided_1_1.webp,pathology,h&e
+PMC11730819,PMC11730819_01,Tuberculosis,train,PMC11730819_01_medi-104-e40920-g006.jpg,medi-104-e40920-g006.jpg,PMC11730819_medi-104-e40920-g006_undivided_1_1.webp,endoscopy,gi_endoscopy
+PMC11798887,PMC11798887_01,Aspergillosis,train,PMC11798887_01_cureus-0017-00000077036-i01.jpg,cureus-0017-00000077036-i01.jpg,PMC11798887_cureus-0017-00000077036-i01_undivided_1_1.webp,radiology,x_ray
+PMC11798887,PMC11798887_01,Aspergillosis,train,PMC11798887_01_cureus-0017-00000077036-i03.jpg,cureus-0017-00000077036-i03.jpg,PMC11798887_cureus-0017-00000077036-i03_undivided_1_1.webp,radiology,ct
+PMC11766525,PMC11766525_01,Syphilis,test,PMC11766525_01_medicina-61-00158-g002.jpg,medicina-61-00158-g002.jpg,PMC11766525_medicina-61-00158-g002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC11658788,PMC11658788_01,Herpes simplex,train,PMC11658788_01_cde-2025-0017-0001-541676_F01.jpg,cde-2025-0017-0001-541676_F01.jpg,PMC11658788_cde-2025-0017-0001-541676_F01_undivided_1_1.webp,medical_photograph,other_medical_photograph
+PMC11763557,PMC11763557_01,Syphilis,val,PMC11763557_01_cureus-0017-00000077913-i02.jpg,cureus-0017-00000077913-i02.jpg,PMC11763557_cureus-0017-00000077913-i02_undivided_1_1.webp,radiology,ct
+PMC11763557,PMC11763557_01,Syphilis,val,PMC11763557_01_cureus-0017-00000077913-i04.jpg,cureus-0017-00000077913-i04.jpg,PMC11763557_cureus-0017-00000077913-i04_undivided_1_1.webp,radiology,mri
+PMC11695209,PMC11695209_01,Herpes simplex,train,PMC11695209_01_CCR3-13-e70050-g004.jpg,CCR3-13-e70050-g004.jpg,PMC11695209_CCR3-13-e70050-g004_undivided_1_1.webp,radiology,mri
+PMC11695209,PMC11695209_01,Herpes simplex,train,PMC11695209_01_CCR3-13-e70050-g003.jpg,CCR3-13-e70050-g003.jpg,PMC11695209_CCR3-13-e70050-g003_undivided_1_1.webp,radiology,mri
+PMC13006016,PMC13006016_01,Aspergillosis,train,PMC13006016_01_IDR-19-598530-g0001.jpg,IDR-19-598530-g0001.jpg,PMC13006016_IDR-19-598530-g0001_undivided_1_1.webp,radiology,ct
+PMC12880937,PMC12880937_01,Syphilis,test,PMC12880937_01_jchim-15-06-045f1.jpg,jchim-15-06-045f1.jpg,PMC12880937_jchim-15-06-045f1_undivided_1_1.webp,radiology,ct
+PMC12906382,PMC12906382_01,Tuberculosis,train,PMC12906382_01_cureus-0018-00000101639-i01.jpg,cureus-0018-00000101639-i01.jpg,PMC12906382_cureus-0018-00000101639-i01_undivided_1_1.webp,radiology,mri
+PMC12906382,PMC12906382_01,Tuberculosis,train,PMC12906382_01_cureus-0018-00000101639-i02.jpg,cureus-0018-00000101639-i02.jpg,PMC12906382_cureus-0018-00000101639-i02_undivided_1_1.webp,radiology,ct
+PMC12906382,PMC12906382_01,Tuberculosis,train,PMC12906382_01_cureus-0018-00000101639-i03.jpg,cureus-0018-00000101639-i03.jpg,PMC12906382_cureus-0018-00000101639-i03_undivided_1_1.webp,pathology,h&e
+PMC12906382,PMC12906382_01,Tuberculosis,train,PMC12906382_01_cureus-0018-00000101639-i04.jpg,cureus-0018-00000101639-i04.jpg,PMC12906382_cureus-0018-00000101639-i04_undivided_1_1.webp,pathology,immunostaining
+PMC12906382,PMC12906382_01,Tuberculosis,train,PMC12906382_01_cureus-0018-00000101639-i05.jpg,cureus-0018-00000101639-i05.jpg,PMC12906382_cureus-0018-00000101639-i05_undivided_1_1.webp,pathology,immunostaining
+PMC12906382,PMC12906382_01,Tuberculosis,train,PMC12906382_01_cureus-0018-00000101639-i06.jpg,cureus-0018-00000101639-i06.jpg,PMC12906382_cureus-0018-00000101639-i06_undivided_1_1.webp,pathology,h&e
+PMC12906382,PMC12906382_01,Tuberculosis,train,PMC12906382_01_cureus-0018-00000101639-i07.jpg,cureus-0018-00000101639-i07.jpg,PMC12906382_cureus-0018-00000101639-i07_undivided_1_1.webp,pathology,h&e
+PMC12906382,PMC12906382_01,Tuberculosis,train,PMC12906382_01_cureus-0018-00000101639-i08.jpg,cureus-0018-00000101639-i08.jpg,PMC12906382_cureus-0018-00000101639-i08_undivided_1_1.webp,radiology,ct
+PMC13096707,PMC13096707_01,Syphilis,train,PMC13096707_01_fonc-16-1779973-g002.jpg,fonc-16-1779973-g002.jpg,PMC13096707_fonc-16-1779973-g002_undivided_1_1.webp,pathology,h&e
+PMC13096707,PMC13096707_01,Syphilis,train,PMC13096707_01_fonc-16-1779973-g003.jpg,fonc-16-1779973-g003.jpg,PMC13096707_fonc-16-1779973-g003_undivided_1_1.webp,pathology,immunostaining
+PMC12872319,PMC12872319_01,Herpes simplex,val,PMC12872319_01_10-1055-s-0045-1812888-i250052-1.jpg,10-1055-s-0045-1812888-i250052-1.jpg,PMC12872319_10-1055-s-0045-1812888-i250052-1_undivided_1_1.webp,radiology,mri
+PMC12740915,PMC12740915_01,Herpes simplex,train,PMC12740915_01_fonc-15-1696746-g004.jpg,fonc-15-1696746-g004.jpg,PMC12740915_fonc-15-1696746-g004_undivided_1_1.webp,pathology,h&e
+PMC12740915,PMC12740915_01,Herpes simplex,train,PMC12740915_01_fonc-15-1696746-g005.jpg,fonc-15-1696746-g005.jpg,PMC12740915_fonc-15-1696746-g005_undivided_1_1.webp,pathology,methenamine_silver
+PMC12460081,PMC12460081_01,Herpes simplex,test,PMC12460081_01_fgene-16-1653082-g001.jpg,fgene-16-1653082-g001.jpg,PMC12460081_fgene-16-1653082-g001_undivided_1_1.webp,pathology,immunostaining
+PMC13037518,PMC13037518_01,Syphilis,train,PMC13037518_01_CCID-19-591343-g0002.jpg,CCID-19-591343-g0002.jpg,PMC13037518_CCID-19-591343-g0002_undivided_1_1.webp,pathology,h&e
+PMC12916437,PMC12916437_01,Herpes simplex,train,PMC12916437_01_CARM-2026-7967791-g001.jpg,CARM-2026-7967791-g001.jpg,PMC12916437_CARM-2026-7967791-g001_undivided_1_1.webp,radiology,ct
+PMC12916437,PMC12916437_01,Herpes simplex,train,PMC12916437_01_CARM-2026-7967791-g003.jpg,CARM-2026-7967791-g003.jpg,PMC12916437_CARM-2026-7967791-g003_undivided_1_1.webp,pathology,immunostaining
+PMC13106594,PMC13106594_02,Aspergillosis,train,PMC13106594_02_fimmu-17-1787177-g001.jpg,fimmu-17-1787177-g001.jpg,PMC13106594_fimmu-17-1787177-g001_undivided_1_1.webp,radiology,ct
+PMC12903791,PMC12903791_01,Aspergillosis,train,PMC12903791_01_CRDI-2026-8851440-g002.jpg,CRDI-2026-8851440-g002.jpg,PMC12903791_CRDI-2026-8851440-g002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC13070336,PMC13070336_01,Aspergillosis,val,PMC13070336_01_IDR-19-576917-g0003.jpg,IDR-19-576917-g0003.jpg,PMC13070336_IDR-19-576917-g0003_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC13070336,PMC13070336_01,Aspergillosis,val,PMC13070336_01_IDR-19-576917-g0005.jpg,IDR-19-576917-g0005.jpg,PMC13070336_IDR-19-576917-g0005_undivided_1_1.webp,pathology,immunostaining
+PMC12943459,PMC12943459_01,Syphilis,test,PMC12943459_01_CARM-2026-4144957-g005.jpg,CARM-2026-4144957-g005.jpg,PMC12943459_CARM-2026-4144957-g005_undivided_1_1.webp,radiology,ct
+PMC12943459,PMC12943459_01,Syphilis,test,PMC12943459_01_CARM-2026-4144957-g004.jpg,CARM-2026-4144957-g004.jpg,PMC12943459_CARM-2026-4144957-g004_undivided_1_1.webp,endoscopy,other_endoscopy
+PMC12943459,PMC12943459_01,Syphilis,test,PMC12943459_01_CARM-2026-4144957-g003.jpg,CARM-2026-4144957-g003.jpg,PMC12943459_CARM-2026-4144957-g003_undivided_1_1.webp,endoscopy,other_endoscopy
+PMC12943459,PMC12943459_01,Syphilis,test,PMC12943459_01_CARM-2026-4144957-g002.jpg,CARM-2026-4144957-g002.jpg,PMC12943459_CARM-2026-4144957-g002_undivided_1_1.webp,medical_photograph,skin_photograph
+PMC12943459,PMC12943459_01,Syphilis,test,PMC12943459_01_CARM-2026-4144957-g001.jpg,CARM-2026-4144957-g001.jpg,PMC12943459_CARM-2026-4144957-g001_undivided_1_1.webp,radiology,mri
+PMC12924776,PMC12924776_01,Herpes simplex,train,PMC12924776_01_cureus-0018-00000102112-i01.jpg,cureus-0018-00000102112-i01.jpg,PMC12924776_cureus-0018-00000102112-i01_undivided_1_1.webp,radiology,mri
+PMC12924776,PMC12924776_01,Herpes simplex,train,PMC12924776_01_cureus-0018-00000102112-i02.jpg,cureus-0018-00000102112-i02.jpg,PMC12924776_cureus-0018-00000102112-i02_undivided_1_1.webp,radiology,mri
+PMC12860285,PMC12860285_01,Syphilis,train,PMC12860285_01_SNI-16-554-g003.jpg,SNI-16-554-g003.jpg,PMC12860285_SNI-16-554-g003_undivided_1_1.webp,radiology,ct
+PMC12860285,PMC12860285_01,Syphilis,train,PMC12860285_01_SNI-16-554-g004.jpg,SNI-16-554-g004.jpg,PMC12860285_SNI-16-554-g004_undivided_1_1.webp,radiology,mri
+PMC12883768,PMC12883768_01,Aspergillosis,train,PMC12883768_01_fped-13-1736632-g001.jpg,fped-13-1736632-g001.jpg,PMC12883768_fped-13-1736632-g001_undivided_1_1.webp,radiology,ct
+PMC12883768,PMC12883768_01,Aspergillosis,train,PMC12883768_01_fped-13-1736632-g003.jpg,fped-13-1736632-g003.jpg,PMC12883768_fped-13-1736632-g003_undivided_1_1.webp,pathology,h&e
+PMC12176330,PMC12176330_01,Herpes simplex,train,PMC12176330_01_2317-6385-eins-23-eRC1138-gf01.jpg,2317-6385-eins-23-eRC1138-gf01.jpg,PMC12176330_2317-6385-eins-23-eRC1138-gf01_undivided_1_1.webp,medical_photograph,oral_photograph
+PMC12910408,PMC12910408_01,Aspergillosis,train,PMC12910408_01_cureus-0018-00000101764-i01.jpg,cureus-0018-00000101764-i01.jpg,PMC12910408_cureus-0018-00000101764-i01_undivided_1_1.webp,radiology,x_ray
+PMC12910408,PMC12910408_01,Aspergillosis,train,PMC12910408_01_cureus-0018-00000101764-i02.jpg,cureus-0018-00000101764-i02.jpg,PMC12910408_cureus-0018-00000101764-i02_undivided_1_1.webp,radiology,ct
+PMC12910408,PMC12910408_01,Aspergillosis,train,PMC12910408_01_cureus-0018-00000101764-i04.jpg,cureus-0018-00000101764-i04.jpg,PMC12910408_cureus-0018-00000101764-i04_undivided_1_1.webp,radiology,x_ray
+PMC12910408,PMC12910408_01,Aspergillosis,train,PMC12910408_01_cureus-0018-00000101764-i05.jpg,cureus-0018-00000101764-i05.jpg,PMC12910408_cureus-0018-00000101764-i05_undivided_1_1.webp,radiology,ct
